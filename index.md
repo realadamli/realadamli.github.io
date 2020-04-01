@@ -82,13 +82,13 @@ layout: default
 <p><label id="greeting"></label></p>
 </header>
 
-<!--
+
 <header class="major">
 	<h1>Latest Post</h1>
 
 	<p>Welcome back to Kōan Trading</p>
 </header>
--->
+
 
 <div class = "row">
   <div class="6u 12u$(small)">
