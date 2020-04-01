@@ -66,7 +66,7 @@ layout: default
 
 		<p> {% for post in site.posts limit:1 %}
 		<!--	<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%"/></span>-->
-		![KoanTrading]{{post.thumbnail}}
+		![KoanTrading]{{site.url}}{{post.thumbnail}}
 		{% endfor %}</p>
 	</div>
 	<div class="6u 12u$(small)">
