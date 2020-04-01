@@ -79,7 +79,7 @@ layout: default
          msg;
 
 </script>
-<p><p id="greeting"></p></p>
+<p id="greeting"></p>
 </header>
 
 
