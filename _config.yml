@@ -26,11 +26,11 @@ facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com/realadamli
+instagram_url: "https://instagram.com/realadamli"
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/realadamli
+twitter_url: "https://twitter.com/realadamli"
 
 # Build settings
 markdown: kramdown
