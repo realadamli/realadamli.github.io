@@ -24,7 +24,7 @@ title: About
       </ul>
     </div>
     <div class="6u 12u$(small)">
-      <span class="image fit">  <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%"/></span>
+      <span class="image fit">  <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
     </div>
     {% endif %}
   {% endfor %}

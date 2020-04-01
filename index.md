@@ -94,7 +94,7 @@ layout: default
 
 		{% for post in site.posts offset:1 limit: 6 %}
 			<article>
-			<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%"/></span>
+			<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
 				<header class = "major">
 					<h2>{{ post.title}}</h2>
 					<p>{{ post.date | date_to_string }} | {{ post.category }}</p>

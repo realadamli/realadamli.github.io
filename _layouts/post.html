@@ -50,7 +50,7 @@
                    </header>
 
 
-                    <span class="image fit"> <img src="{{ page.thumbnail }}" style="width: 100%; max-height: 100%"/></span>
+                    <span class="image fit"> <img src="{{ page.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
                     <hr class="major" />
                     <p>{{page.content}}</p>
 
@@ -68,7 +68,7 @@
                           {% if post.url != page.url %}
                             {% if page.category == post.category %}
                     			<article>
-                    			  <span class="image fit"> <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%"/></span>
+                    			  <span class="image fit"> <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
                           <header class ="major">
                       			<h2>{{ post.title}}</h2>
                       			<p>{{ post.date | date_to_string }} | {{ post.category}}</p>
