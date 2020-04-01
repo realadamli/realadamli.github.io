@@ -3,6 +3,7 @@ layout: post
 title: "Trader Progress 2"
 date: 2014-04-30
 thumbnail: /assets/images/pic10.jpg
+alt: alttxttest
 category: trader progress
 ---
 

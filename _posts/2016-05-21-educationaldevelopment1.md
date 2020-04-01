@@ -3,6 +3,7 @@ layout: post
 title: "Educational Development 1"
 date: 2016-05-21
 thumbnail: /assets/images/pic10.jpg
+alt: alttxttest
 category: education
 ---
 

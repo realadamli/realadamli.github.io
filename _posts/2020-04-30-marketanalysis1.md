@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market Analysis 1
+title: "Market Analysis 1"
 date: 2020-04-30
 thumbnail: /assets/images/pic01.jpg
 alt: alttxttest

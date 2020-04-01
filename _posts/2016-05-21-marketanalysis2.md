@@ -3,6 +3,7 @@ layout: post
 title: "Market Analysis 2"
 date: 2016-05-21
 thumbnail: /assets/images/pic10.jpg
+alt: alttxttest
 category: market analysis
 ---
 
