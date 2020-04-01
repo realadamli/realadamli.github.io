@@ -77,7 +77,7 @@ layout: default
         msg = 'Good Evening, welcome back to Koan Trading';
 
     document.getElementById('greeting').innerHTML =
-        '<b>' + msg + '</b>';
+        '<p>' + msg + '</p>';
 </script>
 	<p>Welcome back to Kōan Trading</p>
 </header>
