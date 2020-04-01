@@ -3,7 +3,7 @@ layout: post
 title: "Market Analysis 1"
 date: 2020-04-30
 thumbnail: /assets/images/pic01.jpg
-alttext: "testalttext"
+alt: "alt text test"
 category: market analysis
 ---
 
