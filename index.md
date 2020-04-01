@@ -78,7 +78,7 @@ layout: default
     else if (currentHour >= 17 && currentHour < 24)
         msg = 'Good Evening, welcome back to Kōan Trading';
 		else if (currentHour ==24)
-				msg = 'Welcome back to Kōan Trading, shouldn't you be going to bed?'
+				msg = 'Welcome back to Kōan Trading, shouldn't you be going to bed?';
 
     document.getElementById('greeting').innerHTML =
         '<p>' + msg + '</p>';
