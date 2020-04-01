@@ -359,7 +359,7 @@ title: Contribute
 			<span class="image fit"><img src="assets/images/pic11.jpg" alt="" /></span>
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/images/koantrading.jpg" alt="" /></span></div>
 					<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
 					<!-- Break -->
