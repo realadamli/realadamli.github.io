@@ -58,6 +58,27 @@ layout: default
 <br />
 <header class="major">
 	<h1>Latest Post</h1>
+
+	<label id="greeting"></label>
+
+<script>
+    var myDate = new Date();
+    var currentHour = myDate.getHours();
+
+    var msg;
+
+    if (currentHour < 12)
+        msg = 'Good Morning, welcome back to Koan Trading';
+    else if(currentHour == 12)
+	msg = 'Good Noon';
+    else if (currentHour >= 12 && currentHour <= 17)
+        msg = 'Good Afternoon, welcome back to Koan Trading';
+    else if (currentHour >= 17 && currentHour <= 24)
+        msg = 'Good Evening, welcome back to Koan Trading';
+
+    document.getElementById('greeting').innerHTML =
+        '<b>' + msg + '</b>';
+</script>
 	<p>Welcome back to Kōan Trading</p>
 </header>
 
