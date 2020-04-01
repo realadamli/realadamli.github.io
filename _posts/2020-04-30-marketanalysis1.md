@@ -2,7 +2,7 @@
 layout: post
 title: "Market Analysis 1"
 date: 2020-04-30
-thumbnail: {{site.url}}/assets/images/KoanTrading.jpg
+thumbnail: {{site.url}}/assets/images/pic01.jpg
 category: market analysis
 ---
 
