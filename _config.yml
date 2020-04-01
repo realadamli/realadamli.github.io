@@ -1,29 +1,45 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+title: Kōan Trading - Orderflow, Market Profile, and Technical Analysis
+subtitle: Personal Trading and Development Blog by Adam Li
+email:
+description: Personal Trading and Development Blog
+tagline: Personal trading and development blog.
+description: Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+url: https://www.koan-trading.com # the base hostname & protocol for your site
+author: Adam Li
+street_address:
+city: Hong Kong
+state:
+zip_code:
+country:
+phone:
+twitter:
+  username: realadamli
+  card: summary
+logo: /assets/images/favicon.ico
+lang: en_US
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/realadamli
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/realadamli
 
 # Build settings
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-sitemap
