@@ -66,18 +66,18 @@ layout: default
 
     var msg;
 
-		if (currentHour <= 5)
-				msg = 'Hello night owl, Welcome back to Kōan Trading.';
-    else if (currentHour >= 5 && < 12)
-        msg = 'Good Morning, welcome back to Kōan Trading.';
+    if (currentHour < 5)
+        msg = 'Good Morning, welcome back to Kōan Trading';
+    else if(currentHour >= 5 && currentHour < 12)
+	msg = 'Good Noon';
     else if(currentHour == 12)
-				msg = 'Welcome back to Kōan Trading, how was your lunch?';
-    else if (currentHour > 12 && currentHour <= 17)
-        msg = 'Good Afternoon, Welcome back to Kōan Trading.';
-    else if (currentHour >= 17 && currentHour < 24)
-        msg = 'Good Evening, Welcome back to Kōan Trading.';
-		else if (currentHour == 24)
-				msg = 'Welcome back to Kōan Trading, shouldn't you sleep soon?';
+	msg = 'Good Noon';
+    else if (currentHour >= 12 && currentHour <= 17)
+        msg = 'Good Afternoon';
+    else if (currentHour >= 17 && currentHour <= 24)
+        msg = 'Good Evening';
+			    else if(currentHour == 24)
+				msg = 'Good Noon';
 
     document.getElementById('greeting').innerHTML =
          msg;
@@ -86,12 +86,12 @@ layout: default
 <p id="greeting"></p>
 </header>
 
-
+<!--
 <header class="major">
 	<h1>Latest Post</h1>
 
 	<p>Welcome back to Kōan Trading</p>
-</header>
+</header>-->
 
 
 <div class = "row">
