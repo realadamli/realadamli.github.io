@@ -4,7 +4,7 @@ title: About
 image: assets/images/pic11.jpg
 ---
 
-<section>
+<br />
 <h1>Welcome to Kōan Trading</h1>
 <blockquote>A kōan is a paradoxical anecdote or riddle, used in Zen Buddhism to demonstrate the inadequacy of logical reasoning and to provoke enlightenment.</blockquote>
 
