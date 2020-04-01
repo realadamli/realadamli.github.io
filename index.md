@@ -56,11 +56,12 @@ layout: default
 
 <!-- Section -->
 <br />
-<header class="major">
-	<h1>Latest Post</h1>
+
 
 	<label id="greeting"></label>
 <script>
+<header class="major">
+	<h1>Latest Post</h1>
     var myDate = new Date();
     var currentHour = myDate.getHours();
 
@@ -81,9 +82,10 @@ layout: default
 
     document.getElementById('greeting').innerHTML =
         '<p>' + msg + '</p>';
+				</header>
 </script>
 	<!--<p>Welcome back to Kōan Trading</p>-->
-</header>
+
 
 
 <div class = "row">
