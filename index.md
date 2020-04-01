@@ -56,10 +56,9 @@ layout: default
 
 <!-- Section -->
 <br />
-<script>
 <header class="major">
 	<h1>Latest Post</h1>
-
+<script>
 	<label id="greeting"></label>
 
     var myDate = new Date();
@@ -67,21 +66,23 @@ layout: default
 
     var msg;
 
-    if (currentHour < 12)
-        msg = 'Good Morning, welcome back to Koan Trading';
+    if (currentHour < 12 && currentHour >= 5)
+        msg = 'Good Morning, welcome back to Kōan Trading';
+		else if(currentHour < 5)
+				msg = 'Hello Night Owl, welcome back to Kōan Trading';
     else if(currentHour == 12)
 	msg = 'Good Noon';
     else if (currentHour >= 12 && currentHour <= 17)
-        msg = 'Good Afternoon, welcome back to Koan Trading';
+        msg = 'Good Afternoon, welcome back to Kōan Trading';
     else if (currentHour >= 17 && currentHour <= 24)
-        msg = 'Good Evening, welcome back to Koan Trading';
+        msg = 'Good Evening, welcome back to Kōan Trading';
 
     document.getElementById('greeting').innerHTML =
         '<p>' + msg + '</p>';
-
+</script>
 	<!--<p>Welcome back to Kōan Trading</p>-->
 </header>
-</script>
+
 
 <div class = "row">
   <div class="6u 12u$(small)">
