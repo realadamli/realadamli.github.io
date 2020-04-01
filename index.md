@@ -65,7 +65,7 @@ layout: default
   <div class="6u 12u$(small)">
 
 		<p> {% for post in site.posts limit:1 %}
-		<span class="image fit"><img src="{{ post.thumbnail }}" alt="{{post.alt-txt}}" style="width: 100%; max-height: 100%"/></span>
+		<span class="image fit"><img src="{{ post.thumbnail }}" alt="{{ post.alttxt }}" style="width: 100%; max-height: 100%"/></span>
 		{% endfor %}</p>
 	</div>
 	<div class="6u 12u$(small)">
