@@ -57,7 +57,6 @@ layout: default
 <!-- Section -->
 <br />
 
-<label id="greeting"></label>
 
 <header class="major">
 	<h1>Latest Post</h1>
@@ -80,6 +79,7 @@ layout: default
         '<b>' + msg + '</b>';
 
 </script>
+<p><label id="greeting"></label></p>
 </header>
 
 <!--
