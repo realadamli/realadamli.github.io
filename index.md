@@ -67,7 +67,7 @@ layout: default
     var msg;
 
     if (currentHour < 12)
-        msg = 'Good Morning';
+        msg = 'Good Morning, welcome back to Kōan Trading';
     else if(currentHour == 12)
 	msg = 'Good Noon';
     else if (currentHour >= 12 && currentHour <= 17)
