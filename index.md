@@ -67,15 +67,15 @@ layout: default
     var msg;
 
 		if (currentHour <=5)
-				msg = 'Hello night owl, Welcome back to Kōan Trading';
+				msg = 'Hello night owl, Welcome back to Kōan Trading.';
     else if (currentHour >= 5 && < 12)
-        msg = 'Good Morning, welcome back to Kōan Trading';
+        msg = 'Good Morning, welcome back to Kōan Trading.';
     else if(currentHour == 12)
 				msg = 'Welcome back to Kōan Trading, how was your lunch?';
     else if (currentHour > 12 && currentHour <= 17)
-        msg = 'Good Afternoon, Welcome back to Kōan Trading';
+        msg = 'Good Afternoon, Welcome back to Kōan Trading.';
     else if (currentHour >= 17 && currentHour < 24)
-        msg = 'Good Evening, Welcome back to Kōan Trading';
+        msg = 'Good Evening, Welcome back to Kōan Trading.';
 		else if (currentHour == 24)
 				msg = 'Welcome back to Kōan Trading, shouldn't you sleep soon?';
 
