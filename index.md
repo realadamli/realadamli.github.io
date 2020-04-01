@@ -71,11 +71,13 @@ layout: default
 		else if(currentHour < 5)
 				msg = 'Hello Night Owl, welcome back to Kōan Trading';
     else if(currentHour == 12)
-	msg = 'Good Noon';
+				msg = 'Welcome back to Kōan Trading, how was your lunch?';
     else if (currentHour >= 12 && currentHour <= 17)
         msg = 'Good Afternoon, welcome back to Kōan Trading';
-    else if (currentHour >= 17 && currentHour <= 24)
+    else if (currentHour >= 17 && currentHour < 24)
         msg = 'Good Evening, welcome back to Kōan Trading';
+		else if (currentHour ==24)
+				msg = 'Welcome back to Kōan Trading, shouldn't you be going to bed?'
 
     document.getElementById('greeting').innerHTML =
         '<p>' + msg + '</p>';
