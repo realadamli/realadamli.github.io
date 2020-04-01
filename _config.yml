@@ -6,7 +6,7 @@ description: Personal Trading and Development Blog
 tagline: Personal trading and development blog.
 description: Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.koan-trading.com" # the base hostname & protocol for your site
+url: "https://koan-trading.com" # the base hostname & protocol for your site
 author: Adam Li
 street_address:
 city: Hong Kong
