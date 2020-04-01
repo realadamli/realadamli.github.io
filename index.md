@@ -79,7 +79,7 @@ layout: default
     document.getElementById('greeting').innerHTML =
         '<b>' + msg + '</b>';
 </script>
-<!--	<p>Welcome back to Kōan Trading</p>-->
+	<p>Welcome back to Kōan Trading</p>
 </header>
 
 <div class = "row">
