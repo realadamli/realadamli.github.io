@@ -86,12 +86,12 @@ layout: default
 <p id="greeting"></p>
 </header>
 
-<!--
+
 <header class="major">
 	<h1>Latest Post</h1>
 
 	<p>Welcome back to Kōan Trading</p>
-</header>-->
+</header>
 
 
 <div class = "row">
