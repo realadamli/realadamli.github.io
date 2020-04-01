@@ -76,7 +76,7 @@ layout: default
         msg = 'Good Evening';
 
     document.getElementById('greeting').innerHTML =
-        '<b>' + msg + '</b>';
+         msg;
 
 </script>
 <p><label id="greeting"></label></p>
