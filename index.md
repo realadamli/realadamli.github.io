@@ -59,6 +59,8 @@ layout: default
 
 <label id="greeting"></label>
 
+<header class="major">
+	<h1>Latest Post</h1>
 <script>
     var myDate = new Date();
     var currentHour = myDate.getHours();
@@ -74,12 +76,11 @@ layout: default
     else if (currentHour >= 17 && currentHour <= 24)
         msg = 'Good Evening';
 
-				<header class="major">
-					<h1>Latest Post</h1>
     document.getElementById('greeting').innerHTML =
         '<b>' + msg + '</b>';
-				</header>
+
 </script>
+</header>
 
 <!--
 <header class="major">
