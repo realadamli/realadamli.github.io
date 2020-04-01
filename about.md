@@ -15,6 +15,6 @@ image: assets/images/pic11.jpg
 <h2>About</h2>
 <p>Kōan Trading is a personal trading and development blog. Here, you can find posts about market analysis, trading and trader progress, educational content such as book summaries and insights, as well as miscellaneous information related to trading performance.</p>
 
-<p> I am a part-time discretionary trader using order-flow, market profile, and technical analysis. Primarily, this blog serves as an archive of my progress as a trader. If somehow my content is helpful or provides value to anyone, then I'm glad it did so (but that is not my primary focus). In addition, I am looking to develop a condition-based trading system that returns adequate expectancy on a consistent basis. </p>
+<p> I am a part-time discretionary trader using order flow, market profile, and technical analysis. Primarily, this blog serves as an archive of my progress as a trader. If somehow my content is helpful or provides value to anyone, then I'm glad it did so (but that is not my primary focus). In addition, I am looking to develop a condition-based trading system that returns adequate expectancy on a consistent basis. </p>
 
 <hr class="major" />
