@@ -58,9 +58,9 @@ layout: default
 <br />
 <header class="major">
 	<h1>Latest Post</h1>
-<script>
-	<label id="greeting"></label>
 
+	<label id="greeting"></label>
+<script>
     var myDate = new Date();
     var currentHour = myDate.getHours();
 
