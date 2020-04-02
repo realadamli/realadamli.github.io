@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trader Progress 1"
+title: "Trader Progress: What To Expect"
 date: 2018-04-30
 thumbnail: /assets/images/pic10.jpg
 alt: alttxttest

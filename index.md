@@ -69,7 +69,7 @@ layout: default
     if (currentHour < 5)
         msg = 'Hello Night owl, welcome back to Kōan Trading';
     else if(currentHour >= 5 && currentHour < 12)
-	msg = 'Good morning, welcome back to Kōan Trading';
+	msg = 'Good morning, welcome background';
     else if(currentHour == 12)
 	msg = 'welcome back to Kōan Trading, time to eat some lunch';
     else if (currentHour >= 12 && currentHour <= 17)
