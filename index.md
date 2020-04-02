@@ -59,7 +59,7 @@ layout: default
 
 
 <header class="major">
-	<h1>Latest Post test</h1>
+	<h1>Latest Post</h1>
 <script>
     var myDate = new Date();
     var currentHour = myDate.getHours();
