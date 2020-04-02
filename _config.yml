@@ -39,10 +39,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-paginate-multiple
   - jekyll-redirect-from
 
 whitelist:
   - jekyll-sitemap
-
-paginate: 10
-  paginate_path: "/blog/page:num/"
