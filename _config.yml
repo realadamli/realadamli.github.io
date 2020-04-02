@@ -45,5 +45,5 @@ plugins:
 whitelist:
   - jekyll-sitemap
 
-paginate: 10
+paginate: 1
 paginate_path: "/blog/all-posts/page:num/"
