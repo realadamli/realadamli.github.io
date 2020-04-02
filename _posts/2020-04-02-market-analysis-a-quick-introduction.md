@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Market Analysis: How I Make Market Decisions"
+title: "A Quick Introduction [MA]"
 date: 2020-04-02
 thumbnail: /assets/images/pic01.jpg
 alt: alttxttest
