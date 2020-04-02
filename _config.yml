@@ -45,5 +45,19 @@ plugins:
 whitelist:
   - jekyll-sitemap
 
-paginate: 1
+paginate-multiple:
+  -paginate: 2
 paginate_path: "/blog/all-posts/page:num/"
+  sub_dir: '/all-posts'
+- paginate: 2
+  paginate_path: '/blog/education/page:num/'
+  sub_dir: '/education'
+- paginate: 2
+  paginate_path: '/blog/market-analysis/page:num/'
+  sub_dir: '/market-analysis'
+- paginate: 2
+  paginate_path: '/blog/miscellaneous/page:num/'
+  sub_dir: '/miscellaneous'
+- paginate: 2
+  paginate_path: '/blog/trader-progress/page:num/'
+  sub_dir: '/trader-progress'
