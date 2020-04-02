@@ -47,7 +47,7 @@ whitelist:
 
 paginate_multiple:
   - paginate: 10
-    paginate_path: '/blog/all-posts/page:num'
+    paginate_path: '/blog/all-posts/page:num/'
     sub_dir: '/all-posts'
   - paginate: 10
     paginate_path: '/blog/education/page:num/'
