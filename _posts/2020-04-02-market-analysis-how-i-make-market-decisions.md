@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Market Analysis: How I Make Market Decisions"
-date: 2020-04-30
+date: 2020-04-02
 thumbnail: /assets/images/pic01.jpg
 alt: alttxttest
 category: market analysis
