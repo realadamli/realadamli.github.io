@@ -34,7 +34,7 @@ twitter_url: "https://twitter.com/realadamli"
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:categories/:year/:month/:day/:title/
+permalink: /blog/:category/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

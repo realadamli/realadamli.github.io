@@ -105,7 +105,7 @@ layout: default
 	{% for post in site.posts limit:1 %}
 		<header class ="major">
 			<h2>{{ post.title}}</h2>
-			<p>{{ post.date | date_to_string }} | {{ post.categories }}</p>
+			<p>{{ post.date | date_to_string }} | {{ post.category }}</p>
 			</header>
 			{{ post.excerpt | strip_html | strip_newlines | truncate: 300 }} <br />
 			<br />
@@ -130,7 +130,7 @@ layout: default
 			<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
 				<header class = "major">
 					<h2>{{ post.title}}</h2>
-					<p>{{ post.date | date_to_string }} | {{ post.categories }}</p>
+					<p>{{ post.date | date_to_string }} | {{ post.category }}</p>
 					</header>
 				{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }} <br/>
 <br/>
