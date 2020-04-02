@@ -9,11 +9,11 @@ title: About
 </header>
 <div class = "row">
   {% for post in site.posts %}
-  {% if post.category == "market analysis" %}
+  {% if post.categories == "market analysis" %}
     <div class="6u 12u$(small)">
     <header class ="major">
       <h2>{{ post.title}}</h2>
-      <p>{{ post.date | date_to_string }} | {{ post.category}}</p>
+      <p>{{ post.date | date_to_string }} | {{ post.categories}}</p>
       </header>
      {{ post.excerpt | strip_html | strip_newlines | truncate: 126 }}
 
