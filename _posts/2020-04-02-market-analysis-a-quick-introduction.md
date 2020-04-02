@@ -7,7 +7,9 @@ alt: alttxttest
 category: market analysis
 ---
 
-Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market. I take a top-down approach to the market (as I'm sure you do too, hopefully), and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m.
+Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market. 
+
+I take a top-down approach to the market (as I'm sure you do too, hopefully), and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m.
 
 While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below (and further detail in future posts).
 1. Market Profile - Value Area, Point of Control
