@@ -46,5 +46,4 @@ whitelist:
   - jekyll-sitemap
 
 paginate: 2
-    paginate_path: "/blog/all-posts/page:num/"
-    sub_dir: '/all-posts'
+paginate_path: "/blog/all-posts/page:num/"
