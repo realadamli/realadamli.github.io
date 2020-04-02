@@ -9,6 +9,7 @@ title: About
 </header>
 <div class = "row">
   {% for post in site.posts %}
+    <p>{{post.categories}}</p>
   {% if post.categories == "market-analysis" %}
     <div class="6u 12u$(small)">
     <header class ="major">
