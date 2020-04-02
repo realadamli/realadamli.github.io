@@ -15,7 +15,7 @@ title: About
       <h2>{{ post.title}}</h2>
       <p>{{ post.date | date_to_string }} | {{ post.category}}</p>
       </header>
-     {{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}
+     {{ post.excerpt | strip_html | strip_newlines | truncate: 126 }}
 
 <br />
 <br />
