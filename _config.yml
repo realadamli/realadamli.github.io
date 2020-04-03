@@ -36,6 +36,11 @@ twitter_url: "https://twitter.com/realadamli"
 markdown: kramdown
 permalink: /blog/:categories/:year/:month/:day/:title/
 
+plugins_dir: ./_plugins
+
+jekyll_get:
+  - data: github
+    json: 'https://api.github.com/users/realadamli/repos'
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
