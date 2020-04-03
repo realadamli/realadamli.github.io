@@ -17,7 +17,7 @@
         <!-- Main -->
         <div id="main">
             <div class="inner">
-
+              <article>
                 {% include header.html %}
 
                 <!-- Content -->
@@ -30,7 +30,7 @@
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                   {% endif %} -->
                   <section>
-          
+
                   {% if paginator.page == 1 %}
                     <header class ="major">
                       <h1>{{page.title}}</h1>
@@ -44,7 +44,7 @@
                   {% endif %}
 
                 {{ content }}
-
+              </article>
               </div>
           </div>
 

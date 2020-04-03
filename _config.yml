@@ -47,6 +47,10 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
 
+algolia:
+  application_id: '04Q1P40FUX'
+  index_name: 'koan-trading'
+  
 whitelist:
   - jekyll-sitemap
 

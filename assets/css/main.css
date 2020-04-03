@@ -3616,7 +3616,7 @@
 				#sidebar > .inner > *:last-child {
 					border-bottom: 0;
 					margin-bottom: 0;
-					padding-bottom: 0;
+					padding-bottom: 500;
 				}
 
 			#sidebar > .inner > .alt {
@@ -3707,7 +3707,7 @@
 					margin-left: -24em;
 				}
 
-		}
+		}-->
 
 		@media screen and (max-width: 1280px) {
 
