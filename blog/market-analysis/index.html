@@ -7,12 +7,99 @@ pagination:
   category: market-analysis
 ---
 
+{% for post in paginator.posts %}
+<div class = "row">
+  <div class="6u 12u$(small)">
+  <header class ="major">
+    <h2>{{ post.title}}</h2>
+    <p>{{ post.date | date_to_string }} | {{ post.categories}}</p>
+    </header>
+   {{ post.excerpt | strip_html | strip_newlines | truncate: 126 }}
+   <br />
+   <br />
+         <ul class="actions">
+           <li><a href="{{ post.url }}" class="button">Read Now</a></li>
+         </ul>
+       </div>
+       <div class="6u 12u$(small)">
+         <span class="image fit">  <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
+       </div>
+
+   </div>
+
+{% endfor %}
+
+<!-- pagination -->
 
 
+{% if paginator.total_pages > 1 %}
+<div class="pagesnavigation">
+
+  {% if paginator.page != 1 %}
+         <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">First</a>
+  {% else %}
+  <span>First</span>
+  {% endif %}
+
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+  {% if paginator.page_trail %}
+    {% for trail in paginator.page_trail %}
+    {% if page.url == trail.path %}
+          <a href="{{ trail.path | prepend: site.baseurl }}" class = 'number current' title="{{trail.title}}">{{ trail.num }}</a>
+    {% endif %}
+    {% if page.url != trail.path %}
+      <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+    {% endif %}
+    {% endfor %}
+  {% endif %}
+
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+<style>
+  .pagesnavigation a, .pagesnavigation span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+  }
+.pagesnavigation a.current {
+  background: #F56A6A;
+  border: 1px solid # 72ade4;
+  color: #FFFFFF;
+  background: linear-gradient(top, # D6D6D6 0 % ,
+  #D6D6D6 100%);
+  background: -webkit-linear-gradient(top, # D6D6D6 0 % ,
+  #D6D6D6 100%);
+
+}
+.pagesnavigation a {
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.pagesnavigation {
+    text-align: center;
+ }
+ </style>
 <!--<div class = "row">
-  {% assign filtered_posts = site.posts | where: 'categories', "market-analysis" %}
+  {% assign filtered_posts = site.posts | where: 'categories', "trader-progress" %}
   {% for post in filtered_posts %}
-
     <div class="6u 12u$(small)">
     <header class ="major">
       <h2>{{ post.title}}</h2>
