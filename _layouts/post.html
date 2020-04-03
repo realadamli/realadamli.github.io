@@ -47,6 +47,7 @@
                    <header class="major">
                      <h1>{{page.title}}<br /></h1>
                      <p>{{page.date | date_to_string}} | {{ page.categories}}</p>
+
                    </header>
 
 
@@ -54,7 +55,8 @@
                     <h5><b>{{page.alt}}</b></h5>
                       <hr class="major" />
                     <p>{{page.content}}</p>
-                  <!--  {% include share-bar.html %}-->
+
+                   {% include share-bar.html %}
 
 
 
@@ -64,27 +66,32 @@
                     	<header class="major">
                     		<h2>Related Posts</h2>
                     	</header>
+
+
                     	<div class="posts">
 
-                    		{% for post in site.posts limit: 6 %}
-                          {% if post.url != page.url %}
-                            {% if page.categories == post.categories %}
+                        {% assign count = 0 %}
+                        {% for post in site.posts %}
+                        {% if count < 6 %}
+                        {% if post.categories == page.categories %}
+                        {% if post.url != page.url %}
+                        {% assign count = count | plus: 1 %}
                     			<article>
-                    			  <span class="image fit"> <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
-                          <header class ="major">
-                      			<h2>{{ post.title}}</h2>
-                      			<p>{{ post.date | date_to_string }} | {{ post.categories}}</p>
-                      			</header>
-                            {{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}<br />
-                            <br />
+                    			<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
+                    				<header class = "major">
+                    					<h2>{{ post.title}}</h2>
+                    					<p>{{ post.date | date_to_string }} | {{ post.categories }}</p>
+                    					</header>
+                    				{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }} <br/>
+                    <br/>
                     				<ul class="actions">
                     					<li><a href="{{ post.url }}" class="button">Read Now</a></li>
                     				</ul>
                     			</article>
                           {% endif %}
                           {% endif %}
+                          {% endif %}
                     		{% endfor %}
-                      </div>
 
 
               </div>

@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -28,7 +29,11 @@
                  {% if page.image %}
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                   {% endif %} -->
-
+                  <section>
+<header class ="major">
+<h1>{{page.title}}</h1>
+<p> {{page.description}}</p>
+</header>
                 {{ content }}
 
               </div>
