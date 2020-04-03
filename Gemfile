@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 gemspec
 
-gem 'bundler', '2.1.4'
+gem 'bundler'
 
 gem 'jekyll-seo-tag'
 gem "jekyll-sitemap"
