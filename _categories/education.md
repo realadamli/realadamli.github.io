@@ -1,4 +1,0 @@
----
-categories: education
-name: Education
----
