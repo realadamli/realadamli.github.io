@@ -42,12 +42,12 @@
                    {{ content }}
                  </div>-->
 
-
+                 <br />
                  <section>
+
                    <header class="major">
                      <h1>{{page.title}}<br /></h1>
-                     <p>{{page.date | date_to_string}} | {{ page.categories}}</p>
-
+                     <p>{{page.date | date_to_string}} - {{ page.categories}} - {{page.tags}}</p>
                    </header>
 
 
@@ -58,13 +58,141 @@
 
                    {% include share-bar.html %}
 
+                   {% for tag in page.tags %}
+                   {% if tag != "na" %}
 
 
-                    <hr class="major" />
+
+                  {% assign tagcount = 1 %}
+
+                  {% for post in site.posts %}
+                  {% if post.url != page.url %}
+                    {% if post.tags == page.tags %}
+                      {% assign tagcount = tagcount | plus: 1 %}
+                    {% endif %}
+                  {% else post.url == page.url %}
+                      {% assign currentcount = tagcount %}
+                    {% endif %}
+                  {% endfor %}
+
+          <!--        # of tags: {{tagcount}}
+                  <br />
+                  Tag post # {{currentcount}}
+                  <br />-->
+
+                  {% if currentcount != 0 %}
+                    {% assign findnextcount = currentcount | minus: 1 %}
+                  {% else %}
+                    {% assign findnextcount = 0 %}
+                  {% endif %}
+
+                  {% if currentcount == tagcount %}
+                    {% assign findprevcount = 0 %}
+                  {% else %}
+                    {% assign findprevcount = currentcount | plus: 1 %}
+                  {% endif %}
+
+                <!--  Next in series # {{findnextcount}}
+                  <br />
+                  Prev. in series # {{findprevcount}}-->
+
+                  {% assign probenext = 0 %}
+                  {% assign probeprev = 0 %}
+                  {% assign firstpost = 0 %}
+                  {% assign lastpost = 0 %}
+                  <header class = "major">
+                    <h2>More From {{page.tags}}</h2>
+                  </header>
+                </div>
+
+                <div class="row 200%">
+
+
+                  {% for post in site.posts %}
+
+                    {% if post.tags == page.tags %}
+                      {% assign probeprev = probeprev | plus: 1 %}
+
+
+                      {% if probeprev == findprevcount %}
+                        {% if findprevcount != 0 %}
+
+
+                          <div class="6u 12u$(medium)">
+
+                            <article>
+                            <a href="{{post.url}}" style="text-decoration: none;">  <h3>{{ post.title | truncate: 45}}</h3>
+                              <div align="left">
+
+                                <h5>{{ post.date | date_to_string }} - {{ post.categories }}</h5>
+                              	<a href="{{post.url}}" class="button special">Previous Post</a>
+                              </div>
+                              </article>
+                          </div>
+                        {% endif %}
+
+                        {% endif %}
+
+                      {% endif%}
+
+                  {% endfor %}
+
+                {% for post in site.posts %}
+                  {% if post.tags == page.tags %}
+                    {% assign probenext = probenext | plus: 1 %}
+                    {% if probenext == findnextcount %}
+                      {% if findnextcount != 0 %}
+                        {% if findprevcount != 0 %}
+                        <div class="6u 12u$(medium)">
+
+                          <article>
+                          <a href="{{post.url}}" style="text-decoration: none;">  <h3 style="text-align:right">{{ post.title | truncate: 45}}</h3>
+                            <div align="right">
+                              <h5>{{ post.date | date_to_string }} - {{ post.categories }}</h5>
+              	                <a href="{{post.url}}" class="button special" right: "150px">Next Post</a>
+                              </div>
+                          </article>
+                        </div>
+                        {% endif %}
+                        {% if findprevcount == 0 %}
+
+  <div class="6u 12u$(medium)">
+                        <article>
+                        <a href="{{post.url}}" style="text-decoration: none;">  <h3 style="text-align:left">{{ post.title | truncate: 45}}</h3>
+                          <div align="left">
+                            <h5>{{ post.date | date_to_string }} - {{ post.categories }}</h5>
+                              <a href="{{post.url}}" class="button special" right: "150px">Next Post</a>
+                            </div>
+                        </article>
+                      </div>
+
+                        {% endif %}
+                       {% endif %}
+                     {% endif %}
+                   {% endif %}
+                 {% endfor %}
+
+            </div>
+   {% endif %}
+  {% endfor %}
+
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% if count < 6 %}
+      {% if post.categories == page.categories %}
+        {% if post.url != page.url %}
+          {% assign count = count | plus: 1 %}
+    {% endif %}
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+
+    {% if count != 0 %}
+              <hr class="major" />
                     <!-- Section -->
                     <section>
                     	<header class="major">
-                    		<h2>Related Posts</h2>
+                    		<h2>Recent Posts in {{ page.categories}}</h2>
                     	</header>
 
 
@@ -72,20 +200,21 @@
 
                         {% assign count = 0 %}
                         {% for post in site.posts %}
-                        {% if count < 6 %}
-                        {% if post.categories == page.categories %}
-                        {% if post.url != page.url %}
-                        {% assign count = count | plus: 1 %}
-                    			<article>
-                    			<span class="image fit"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
-                    				<header class = "major">
-                    					<h2>{{ post.title}}</h2>
-                    					<p>{{ post.date | date_to_string }} | {{ post.categories }}</p>
-                    					</header>
+                          {% if count < 6 %}
+                            {% if post.categories == page.categories %}
+                              {% if post.url != page.url %}
+                                {% assign count = count | plus: 1 %}
+
+                    			          <article>
+                    			               <span class="image fit"><a href="{{post.url}}" style="text-decoration: none;"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
+                    				             <header class = "major">
+                    					               <h2>{{ post.title}}</h2>
+                    					               <p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
+                    					            </header>
                     				{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }} <br/>
-                    <br/>
+                              <br/>
                     				<ul class="actions">
-                    					<li><a href="{{ post.url }}" class="button">Read Now</a></li>
+                    					<li><a href="{{ post.url }}" class="button special">Read Now</a></li>
                     				</ul>
                     			</article>
                           {% endif %}
@@ -94,12 +223,74 @@
                     		{% endfor %}
 
                       </article>
+
+              {% endif %}
+                      {% if count == 0 %}
+                          <hr class="major" />
+                      <section>
+                      	<header class="major">
+                      		<h2>Recent Posts</h2>
+                      	</header>
+                      	<div class="posts">
+
+                      		{% for post in site.posts offset:1 limit: 6 %}
+                      			<article>
+                      			<span class="image fit"><a href="{{post.url}}" style="text-decoration: none;"><img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></span>
+                      				<header class = "major">
+                      					<h2>{{ post.title}}</h2>
+                      					<p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
+                      					</header>
+                      				{{ post.excerpt | strip_html | strip_newlines | truncate: 156 }} <br/>
+                      <br/>
+                      				<ul class="actions">
+                      					<li><a href="{{ post.url }}" class="button special">Read Now</a></li>
+                      				</ul>
+                      			</article>
+                      		{% endfor %}
+
+
+                      	</div>
+                      </section>
+                      {% endif %}
+
               </div>
           </div>
 
           {% include sidebar.html %}
 
       </div>
+
+
+      <style>
+        .pagesnavigation a, .pagesnavigation span {
+          padding: 7px 18px;
+          border: 1px solid #eee;
+          margin-left: -2px;
+          margin-right: -2px;
+          background-color: #ffffff;
+          display: block;
+        }
+      .pagesnavigation a.current {
+        background: #F56A6A;
+        border: 1px solid # 72ade4;
+        color: #FFFFFF;
+        background: linear-gradient(top, # D6D6D6 0 % ,
+        #D6D6D6 100%);
+        background: -webkit-linear-gradient(top, # D6D6D6 0 % ,
+        #D6D6D6 100%);
+
+      }
+      .pagesnavigation a {
+          &:hover {
+              background-color: #f1f1f1;
+              color: #333;
+          }
+       }
+
+      .pagesnavigation {
+          text-align: center;
+       }
+       </style>
 
       {% include footer.html %}
 

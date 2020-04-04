@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Educational Development 2"
-date: 2016-05-21
+title: "Thinking In Bets: Annie Duke [Part 3]"
+date: 2018-05-21
 thumbnail: /assets/images/pic10.jpg
 alt: alttxttest
-categories: [education]
+categories: [Education]
+tags: testseries
 ---
 
 This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page. This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.This is a test post to test out the current website functionality. This spot serves to display the latest article/post. It will display the first paragraph, and ideally will open up when you press "see more". Alternatively, you can also press "read more" to jump to the blog page.

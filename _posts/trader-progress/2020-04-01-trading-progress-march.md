@@ -4,7 +4,8 @@ title: "Progress Update for March (2020)"
 date: 2020-04-01
 thumbnail: /assets/images/pic10.jpg
 alt: alttxttest
-categories: [trader-progress]
+categories: [Trader-Progress]
+tags: na
 ---
 
 This is the first trader progress update since I started this challenge. For those who are new, you can find an introduction to what I'm doing at this link: [LINK]. It goes over the paramters that I've set for this challenge, as well as some other information. So, let's see how I did.

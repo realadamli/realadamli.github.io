@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Trader progress 1"
-date: 2020-03-30
+title: "Quick Introduction Into My Market Analysis"
+date: 2020-04-02
 thumbnail: /assets/images/pic01.jpg
 alt: A look into the criteria that I use to determine how I view the market
-categories: [trader-progress]
+categories: [Market-Analysis]
+tags: na
 ---
 
 Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market.
