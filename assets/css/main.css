@@ -2101,13 +2101,15 @@
 
 		}
 
-ul { padding:0 }
+ul {
+	padding:0
+}
 
 	a {
 
-		border-bottom: none;
-		color: #7f888f;
-		text-decoration: none;
+		border-bottom: none!important;
+		color: #7f888f!important;
+		text-decoration: none!important;
 	}
 
 		a:hover {
