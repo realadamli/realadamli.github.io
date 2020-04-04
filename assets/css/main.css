@@ -2101,10 +2101,12 @@
 
 		}
 
+ul { padding:0 }
+
 	a {
 
-
-		color: #7F888F;
+		border-bottom: none;
+		color: #7f888f;
 		text-decoration: none;
 	}
 
@@ -2801,7 +2803,7 @@
 				vertical-align: middle;
 			}
 
-				ul.pagination li > .page {
+		/*		ul.pagination li > .page {
 					-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 					-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -2838,7 +2840,7 @@
 
 				ul.pagination li:last-child {
 					padding-left: 0.75em;
-				}
+				}*/
 
 			@media screen and (max-width: 480px) {
 
