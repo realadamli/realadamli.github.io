@@ -45,11 +45,19 @@
                  <br />
                  <section>
 
+                   {% for tag in page.tags %}
+                   {% if tag != "na" %}
                    <header class="major">
                      <h1>{{page.title}}<br /></h1>
                      <p>{{page.date | date_to_string}} - {{ page.categories}} - {{page.tags}}</p>
                    </header>
-
+                   {% else %}
+                   <header class="major">
+                     <h1>{{page.title}}<br /></h1>
+                     <p>{{page.date | date_to_string}} - {{ page.categories}}</p>
+                   </header>
+                   {% endif %}
+                  {% endfor %}
 
                     <span class="image fit"> <img src="{{ page.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ page.alt }}"/></span>
                     <h5><b>{{page.alt}}</b></h5>
