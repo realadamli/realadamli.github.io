@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Introduction Into My Market Analysis"
 date: 2020-04-02
-thumbnail: /assets/images/pic01.jpg
-alt: A look into the criteria that I use to determine how I view the market
+thumbnail: /assets/images/04-05-20-XBTUSD.jpg
+alt: April 4th, 2020 - XBTUSD Bitcoin Chart
 categories: [Market-Analysis]
 tags: na
 ---
