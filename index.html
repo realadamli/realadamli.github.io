@@ -51,12 +51,12 @@ Title: Home
 	</div>
 	<div class="6u 12u$(small)">
 	{% for post in site.posts limit:1 %}
-		<header class ="major">
+		<a href="{{post.url}}" style="text-decoration: none; bottom-border: none;"><header class ="major">
 			<h2>{{ post.title}}</h2>
 			<p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
 			</header>
 			{{ post.excerpt | strip_html | strip_newlines | truncate: 300 }} <br />
-			<br />
+			<br /><a/>
 
 			<ul class="actions">
 				<li><a href="{{ post.url }}" class="button special">Read The Latest Post</a></li>
