@@ -1,35 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-05T09:24:21+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">My Market Criteria: Introduction</title><link href="https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction/" rel="alternate" type="text/html" title="My Market Criteria: Introduction" /><published>2020-04-02T00:00:00+00:00</published><updated>2020-04-02T00:00:00+00:00</updated><id>https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction</id><content type="html" xml:base="https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction/">&lt;h4&gt;Overview&lt;/h4&gt;
-&lt;p&gt;Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-05T14:24:41+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">My Market Criteria: Introduction</title><link href="https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction/" rel="alternate" type="text/html" title="My Market Criteria: Introduction" /><published>2020-04-02T00:00:00+00:00</published><updated>2020-04-02T00:00:00+00:00</updated><id>https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction</id><content type="html" xml:base="https://koan-trading.com/blog/market-analysis/2020/04/02/my-market-criteria-introduction/">&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Welcome to the market criteria series! This series consists of my personal criteria that I look at for markets (primarily crypto) on both higher and lower time-frames. Today, we will quickly introduce and layout a simple framework that I use when making decisions to enter or exit the market. This framework consists of three main variables: approach, criteria, setups, and is the first iteration of my trading system and the first step in my trading journey. Let’s briefly talk about each one, as well as some additional information such as peripheral software, exchange platforms, progress reports, etc.&lt;/p&gt;
 
-&lt;p&gt;I take a top-down approach to the market (as I’m sure you do too, hopefully), and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m.&lt;/p&gt;
+&lt;blockquote&gt;Important: Please note that while my style of writing may seem as if this content is written for the public, in reality that is not the focus or purpose of this website. These posts are primarily designed to force accountability and attention to detail into my habitual skill set, as well as to serve as a personal documentation of my progress. None of this constitutes financial advice, nor am I a financial advisor. However, if you do find any value from my content, I am very happy to have done so.&lt;/blockquote&gt;
 
-&lt;h4&gt;Major Criteria&lt;/h4&gt;
-&lt;p&gt;While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below (and further detail in future posts).&lt;/p&gt;
+&lt;h3&gt;Approach&lt;/h3&gt;
+&lt;p&gt;The concept of approach is all about how I aim to look at and digest all of the information given to me by the market. Think of it as an order of importance within my trading system, my personal philosophy on trading, or my feelings and/or biases towards the market. While this may be unintuitive, one of the most important things I aim to strive for as a discretionary trader is the minimization of personal discretion. However, I am also attempting to maintain sole control over the decisions that I make in the market rather than following the signals of a fully autonomous system/program (read: “bot”). Ultimately, I would like to develop a discretionary style of trading that allows for on-the-fly decision making but also enough structure and criteria requirements that it eliminates potentially harmful psychological biases and human error.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Market Profile - Value Area, Point of Control&lt;/li&gt;
-  &lt;li&gt;Order Flow - Delta, Buy/Sell Imbalances, Cumulative Volume Delta&lt;/li&gt;
-  &lt;li&gt;Technical Analysis - Basic Support and Resistance, Trendlines/Channels&lt;/li&gt;
-  &lt;li&gt;Indicators/Oscillators - Volume, On-Balance Volume, Average True Range, RSI, moving averages, MACD&lt;/li&gt;
-  &lt;li&gt;Miscellaneous - Open Interest, Funding&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;The first step within this system is nothing new or special. In fact, basically every trader I know does this, regardless of profitability. I take a top-down approach to the market, and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m to further refine these key areas. Generally, I’ll stay on these lower time frames (1H/4H) and look for candle close confirmation for entries. Only after taking a look at the overall market picture do we begin to look at additional criteria.&lt;/p&gt;
 
-&lt;h4&gt;Setups&lt;/h4&gt;
-&lt;p&gt;Additionally, I have a list of setups that I would like to take (and are continually collecting data for optimization purposes). These are:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Support/Resistance Retests - Volume Confirmation&lt;/li&gt;
-  &lt;li&gt;Range Reversion - VAH/VAH Trading&lt;/li&gt;
-  &lt;li&gt;Break From Balance - VAH/VAL Break and Retest&lt;/li&gt;
-  &lt;li&gt;Trapped Traders - Underwater Traders&lt;/li&gt;
-  &lt;li&gt;Absorption - CVD Divergence&lt;/li&gt;
-  &lt;li&gt;Naked Point of Control - Very Low-Time Frame Scalp&lt;/li&gt;
-  &lt;li&gt;Technical - Trendline/Wedge Focused&lt;/li&gt;
-  &lt;li&gt;Spot Play - Crypto/Fiat Conversion&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3&gt;Criteria&lt;/h3&gt;
+&lt;p&gt;While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below. These techniques and indicators are by no means comprehensive nor representative of all possible te, but are the ones that I am familiar with using. These topics will also be covered in detail in future posts from this series. In no particular order:&lt;/p&gt;
 
-&lt;p&gt;I will be covering these setups more in depth in future posts, but this is how I will aim to do my market analysis. I will be using EdgeWonk to keep track of my trading progress (see “Trader Progress” for more information on my position sizing, trading parameters, etc.). I primarily trade on ByBit, Phemex, and FTX, and use TradingView and EXO Charts for market analysis (see: “Miscellaneous” for more information on the platforms I use).&lt;/p&gt;
+&lt;dl&gt;
+  &lt;dt&gt;&lt;b&gt;1. Order Flow&lt;/b&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;ul class=&quot;alt&quot;&gt;
+      &lt;li&gt;&lt;b&gt;Delta&lt;/b&gt; - we want to see delta confirm the trend. Is there heavy positive or negative delta? How is price responding to the actions of buyers/sellers?&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Imbalances&lt;/b&gt; - are there any buying or selling imbalances in the footprint chart? How are buyers/sellers responding to movements in price? &lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Cumulative Volume Delta&lt;/b&gt; - how is price responding to the changes in delta over time? Are there any divergences between delta and price? &lt;/li&gt;
+    &lt;/ul&gt;&lt;/dd&gt;
+  &lt;dt&gt;&lt;b&gt;2. Market Profile&lt;/b&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+      &lt;ul class=&quot;alt&quot;&gt;
+        &lt;li&gt;&lt;b&gt;Value Area&lt;/b&gt; - what are the levels for the value area high and value area low? Great for ranging environments.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Point of Control&lt;/b&gt; - where has the most volume taken place? Great for finding exits for positions and potential support or resistance levels.&lt;/li&gt;
+      &lt;/ul&gt;&lt;/dd&gt;
 
-&lt;p&gt;If you made it this far, thanks very much for reading. If you enjoyed this content, please feel free to share it with your friends or on social media. This blog is primarily a journal of sorts for personal use, but if it provides any value to you I’m very happy. Thanks!&lt;/p&gt;</content><author><name>Adam Li</name></author><category term="Market Criteria" /><summary type="html">Overview Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market.</summary></entry><entry><title type="html">March Performance Review (2020)</title><link href="https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review/" rel="alternate" type="text/html" title="March Performance Review (2020)" /><published>2020-04-01T00:00:00+00:00</published><updated>2020-04-01T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review</id><content type="html" xml:base="https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review/">&lt;p&gt;This is the first trader progress update since I started this challenge. For those who are new, you can find an introduction to what I’m doing at this link: [LINK]. It goes over the paramters that I’ve set for this challenge, as well as some other information. So, let’s see how I did.&lt;/p&gt;
+  &lt;dt&gt;&lt;b&gt;3. Technical Analysis&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Support/Resistance&lt;/b&gt; - at what prices are more other-time-frame market participants likely to enter? This is the foundation for the rest of the criteria, and we will attempt to enter as close as possible to these levels as often as possible. &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Trendlines/Channels&lt;/b&gt; - price tends to respect these trendlines, whether through a self-fulfilling prophecy or not. These act as good points of interest when price breaks one of these.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;&lt;b&gt;4. Indicators/Oscillators&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Volume and On-Balance Volume&lt;/b&gt; - we look at volume to confirm potential breakouts and trends. Does price follow volume transacted? We want to make sure that there are no clear divergences in price movement and volume.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Average True Range&lt;/b&gt; - helps us in certain situations to position size correctly and to prevent from being stopped out.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Relative Strength Index&lt;/b&gt; - great for ranging markets, and particularly useful on the higher-time frames. We primarily look for divergences in the RSI.&lt;/li&gt;
+    &lt;blockquote&gt;Moving averages and MACD (and to an extent bollinger bands) not mentioned because while they are useful, I am staying away from introducing too many variables/criteria into my system. The ones I currently have are plenty. However, moving averages and the MACD are great for trending environments, and I occasionally do use them.&lt;/blockquote&gt;
+  &lt;/ul&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;&lt;b&gt;5. Miscellaneous&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Open Interest&lt;/b&gt; - we can use open interest to gauge the exposure level of the market. We want to see open interest follow price (depending on bias). High open interest opens up the possibility of huge squeezes.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Funding&lt;/b&gt; - we can use funding to see where the majority of traders are positioned. High positive or negative funding could mean a potential squeeze.&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/dd&gt;
+&lt;dl&gt;
+
+&lt;h3&gt;Setups&lt;/h3&gt;
+Additionally, I have a list of setups that I would like to take (and are continually collecting data for optimization purposes).  These are (in no particular order):
+
+
+&lt;dl&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;1. Support/Resistance Retests&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to buy the retests of support and resistance levels, either after a break on high volume, or after a clear rejection and retest failure. Can be both a high and low time-frame play.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;2. Range Reversion&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to buy and sell the value area low or value area high of a range, anticipating that it will return to at least the point of control. Often a lower time-frame setup.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;3. Break from Balance&lt;/dt&gt;&lt;/b&gt;
+    &lt;dd&gt;Alternatively, we want to buy the retest of the value area high or value area low if we get confirmation of a break from balance, depending on additional data like inside days and other criteria.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;4. Trapped Traders&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Using footprint charts, we want to spot times where traders become trapped and are immediately underwater. Often, a small push to the opposite direction pressures these traders to close their positions (read: squeeze). &lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;5. Absorption&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to find situations where there is a lot of aggressive buying or seller, but price is not moving to match it. This often shows up in the form of a CVD divergence.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;6. Naked Point of Control&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Using market profile, we can identify naked points of control and preemptively place orders there in an attempt to catch price quickly hitting it before a bounce. Very low time-frame trade.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;7. Technical&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Completely technical based (read: drawing lines), we can take advantage of the self-fulfilling prophecy of technical analysis. I've found that trendlines work the best for this, as other patterns are not very reliable.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;9. Spot Play&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Not really a setup, but in certain market conditions it may be more favorable to be flat, while other market conditions favour being exposed to crypto.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3&gt;Additional Info&lt;/h3&gt;
+I will be covering these setups more in depth in future posts, but this was a brief overview of how I aim to do my market analysis. To track my progress, I will be using EdgeWonk 2.0 and doing monthly performance reviews as well as posting setups (see &quot;Trader Progress&quot; for more information on my position sizing, trading parameters, etc.). For exchanges and peripheral software, I primarily trade on ByBit, Phemex, and FTX, and use TradingView and EXO Charts for market analysis (see: &quot;Miscellaneous&quot; for more information on the platforms I use).
+
+&lt;p&gt;&lt;br /&gt;
+If you made it this far, thanks very much for reading. If you enjoyed this content, please feel free to share it with your friends or on social media. This blog is primarily a journal of sorts for personal use, but if it provides any value to you I'm very happy. Thanks!
+&lt;/p&gt;&lt;/dl&gt;&lt;/dl&gt;</content><author><name>Adam Li</name></author><category term="Market Criteria" /><summary type="html">Overview Welcome to the market criteria series! This series consists of my personal criteria that I look at for markets (primarily crypto) on both higher and lower time-frames. Today, we will quickly introduce and layout a simple framework that I use when making decisions to enter or exit the market. This framework consists of three main variables: approach, criteria, setups, and is the first iteration of my trading system and the first step in my trading journey. Let’s briefly talk about each one, as well as some additional information such as peripheral software, exchange platforms, progress reports, etc.</summary></entry><entry><title type="html">March Performance Review (2020)</title><link href="https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review/" rel="alternate" type="text/html" title="March Performance Review (2020)" /><published>2020-04-01T00:00:00+00:00</published><updated>2020-04-01T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review</id><content type="html" xml:base="https://koan-trading.com/blog/trader-progress/2020/04/01/march-performance-review/">&lt;p&gt;This is the first trader progress update since I started this challenge. For those who are new, you can find an introduction to what I’m doing at this link: [LINK]. It goes over the paramters that I’ve set for this challenge, as well as some other information. So, let’s see how I did.&lt;/p&gt;
 
 &lt;p&gt;Here is a picture of my Edgewonk trading journal (see: LINK for more information on how I have it set up).&lt;/p&gt;
 
