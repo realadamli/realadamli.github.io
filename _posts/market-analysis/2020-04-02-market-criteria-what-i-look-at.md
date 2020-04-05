@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Quick Introduction Into My Market Analysis"
+title: "Market Criteria: What I Look At"
 date: 2020-04-02
-thumbnail: /assets/images/04-05-20-XBTUSD.jpg
-alt: April 4th, 2020 - XBTUSD Bitcoin Chart
+thumbnail: /assets/images/marketanalysis/04-05-20-XBTUSD.jpg
+alt: Monthly Log Chart for Bitcoin (Bitcoin Liquid Index) - TradingView
 categories: [Market-Analysis]
 tags: na
 ---
@@ -32,5 +32,3 @@ Additionally, I have a list of setups that I would like to take (and are continu
 I will be covering these setups more in depth in future posts, but this is how I will aim to do my market analysis. I will be using EdgeWonk to keep track of my trading progress (see "Trader Progress" for more information on my position sizing, trading parameters, etc.). I primarily trade on ByBit, Phemex, and FTX, and use TradingView and EXO Charts for market analysis (see: "Miscellaneous" for more information on the platforms I use).
 
 If you made it this far, thanks very much for reading. If you enjoyed this content, please feel free to share it with your friends or on social media. This blog is primarily a journal of sorts for personal use, but if it provides any value to you I'm very happy. Thanks!
-
--Adam
