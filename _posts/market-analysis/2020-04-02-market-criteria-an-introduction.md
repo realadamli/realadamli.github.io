@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Market Criteria: What I Look At"
+title: "Market Criteria: An Introduction"
 date: 2020-04-02
 thumbnail: /assets/images/marketanalysis/04-05-20-XBTUSD.jpg
 alt: Monthly Log Chart for Bitcoin (Bitcoin Liquid Index) - TradingView
 categories: [Market-Analysis]
-tags: na
+tags: [Market Criteria]
 ---
 
 Welcome to the market analysis section of this blog. Posts categorized in this section will be my personal analysis of markets (primarily crypto) on both higher and lower time-frames. This post aims to quickly breakdown the criteria that I will be looking at when making decisions to enter or exit the market.
@@ -13,6 +13,8 @@ Welcome to the market analysis section of this blog. Posts categorized in this s
 I take a top-down approach to the market (as I'm sure you do too, hopefully), and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m.
 
 While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below (and further detail in future posts).
+
+<b>Major Criteria</b>
 1. Market Profile - Value Area, Point of Control
 2. Order Flow - Delta, Buy/Sell Imbalances, Cumulative Volume Delta
 3. Technical Analysis - Basic Support and Resistance, Trendlines/Channels
