@@ -58,7 +58,7 @@ Title: Home
 			<h2>{{ post.title}}</h2>
 			<p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
 			</header>
-			{{ post.excerpt | strip_html | strip_newlines | truncate: 300 }} <br />
+			{{ post.description | strip_html | strip_newlines | truncate: 300 }} <br />
 			<br /><a/>
 
 			<ul class="actions">
@@ -84,7 +84,7 @@ Title: Home
 					<h2>{{ post.title}}</h2>
 					<p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
 					</header>
-				{{ post.excerpt | strip_html | strip_newlines | truncate: 150 }} <br/>
+				{{ post.description | strip_html | strip_newlines | truncate: 150 }} <br/>
 <br/>
 				<ul class="actions">
 					<li><a href="{{ post.url }}" class="button special">Read Now</a></li>

@@ -6,6 +6,7 @@ thumbnail: /assets/images/pic01.jpg
 alt: Monthly Performance Review - Tracked Using Edgewonk 2.0
 categories: [Trader-Progress]
 tags: [Monthly Review]
+description: Performance review for March 2020. In the first post of this series, we go over some basic trade parameters, goal-setting, review techniques, and planning.
 ---
 
 This is the first trader progress update since I started this challenge. For those who are new, you can find an introduction to what I'm doing at this link: [LINK]. It goes over the paramters that I've set for this challenge, as well as some other information. So, let's see how I did.

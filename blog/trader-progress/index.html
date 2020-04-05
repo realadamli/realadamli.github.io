@@ -13,7 +13,7 @@ pagination:
     <h2>{{ post.title}}</h2>
     <p>{{ post.date | date_to_string }} - {{ post.categories}}</p>
     </header>
-   {{ post.excerpt | strip_html | strip_newlines | truncate: 350 }}
+   {{ post.description | strip_html | strip_newlines | truncate: 350 }}
    <br />
    <br />
          <ul class="actions">
