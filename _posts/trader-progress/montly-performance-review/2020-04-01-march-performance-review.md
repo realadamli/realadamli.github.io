@@ -2,7 +2,7 @@
 layout: post
 title: "March Performance Review (2020)"
 date: 2020-04-01
-thumbnail: /assets/images/marketanalysis/banner.jpg
+thumbnail: /assets/images/banner.jpg
 alt: Monthly Performance Review - Tracked Using Edgewonk 2.0
 categories: [Trader-Progress]
 tags: [Monthly Review]
