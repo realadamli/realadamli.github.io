@@ -48,7 +48,7 @@ Title: Home
   <div class="6u 12u$(small)">
 
 		<p> {% for post in site.posts limit:1 %}
-		<span class="image fit"><a href="{{post.url  }}" style="text-decoration: none;"><img src="{{ post.thumbnail | absolute_url}}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></a></span>
+		<span class="image fit"><a href="{{post.url  }}" style="text-decoration: none;"><img src="{{site.baseurl}}{{ post.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ post.alt }}"/></a></span>
 		{% endfor %}</p>
 	</div>
 	<div class="6u 12u$(small)">
