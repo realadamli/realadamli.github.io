@@ -20,30 +20,8 @@
                 {% include header.html %}
 
                 <!-- Content -->
-            <!--     <section>
-                	<header class="main">
-                		<h1>{{ page.title }}</h1>
-                	</header>
-
-                 {% if page.image %}
-                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-                  {% endif %} -->
-
-              <!--    {% for post in site.posts %}
-                   {% if post.url == page.url %}
-                     <img src="{{ post.thumbnail }}" style="width: 100%; max-height: 100%"/> <br />
-                   {% endif %}
-                   {% endfor %}
-
-                   <h1>{{ page.title }}</h1>
-                   <p class="meta">{{ page.date | date_to_string }}</p>
-
-                 <div class="post">
-                   {{ content }}
-                 </div>-->
-
                  <br />
-                 <section>
+
 
                    {% for tag in page.tags %}
                    {% if tag != "na" %}
@@ -61,15 +39,13 @@
 
                     <span class="image fit"><a href="{{ page.thumbnail  }}" style="text-decoration: none;"> <img src="{{ page.thumbnail }}" style="width: 100%; max-height: 100%" alt="{{ page.alt }}"/></span></a>
                     <h5><b>{{page.alt}}</b></h5>
-	<hr />
+	                   <hr />
                     <p>{{page.content}}</p>
 
                    {% include share-bar.html %}
 
                    {% for tag in page.tags %}
                    {% if tag != "na" %}
-
-
 
                   {% assign tagcount = 1 %}
 
@@ -83,10 +59,7 @@
                     {% endif %}
                   {% endfor %}
                   {% if tagcount != 1 %}
-          <!--        # of tags: {{tagcount}}
-                  <br />
-                  Tag post # {{currentcount}}
-                  <br />-->
+
 
                   {% if currentcount != 0 %}
                     {% assign findnextcount = currentcount | minus: 1 %}
@@ -112,37 +85,25 @@
                     <h2>More From {{page.tags}}</h2>
                   </header>
 
-
                 <div class="row 200%">
 
-
                   {% for post in site.posts %}
-
                     {% if post.tags == page.tags %}
                       {% assign probeprev = probeprev | plus: 1 %}
-
-
                       {% if probeprev == findprevcount %}
                         {% if findprevcount != 0 %}
-
-
                           <div class="6u 12u$(medium)">
-
                             <article>
                             <a href="{{post.url}}" style="text-decoration: none;">  <h3>{{ post.title | truncate: 45}}</h3>
                               <div align="left">
-
                                 <h5>{{ post.date | date_to_string }} - {{ post.categories }}</h5>
                               	<a href="{{post.url}}" class="button special">Previous Post</a>
                               </div>
-                              </article>
+                            </article>
                           </div>
                         {% endif %}
-
-                        {% endif %}
-
-                      {% endif%}
-
+                      {% endif %}
+                    {% endif%}
                   {% endfor %}
 
                 {% for post in site.posts %}
@@ -152,7 +113,6 @@
                       {% if findnextcount != 0 %}
                         {% if findprevcount != 0 %}
                         <div class="6u 12u$(medium)">
-
                           <article>
                           <a href="{{post.url}}" style="text-decoration: none;">  <h3 style="text-align:right">{{ post.title | truncate: 45}}</h3>
                             <div align="right">
@@ -164,7 +124,7 @@
                         {% endif %}
                         {% if findprevcount == 0 %}
 
-  <div class="6u 12u$(medium)">
+                      <div class="6u 12u$(medium)">
                         <article>
                         <a href="{{post.url}}" style="text-decoration: none;">  <h3 style="text-align:left">{{ post.title | truncate: 45}}</h3>
                           <div align="left">
@@ -180,31 +140,29 @@
                    {% endif %}
                  {% endfor %}
 
-            </div>
-            {% endif %}
-   {% endif %}
-  {% endfor %}
 
-  {% assign count = 0 %}
-  {% for post in site.posts %}
-    {% if count < 6 %}
-      {% if post.categories == page.categories %}
-        {% if post.url != page.url %}
-          {% assign count = count | plus: 1 %}
-    {% endif %}
-    {% endif %}
-    {% endif %}
-  {% endfor %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
 
-    {% if count != 0 %}
+              {% assign count = 0 %}
+              {% for post in site.posts %}
+              {% if count < 6 %}
+              {% if post.categories == page.categories %}
+              {% if post.url != page.url %}
+              {% assign count = count | plus: 1 %}
+              {% endif %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+
+              {% if count != 0 %}
               <hr class="major" />
                     <!-- Section -->
                     <section>
                     	<header class="major">
                     		<h2>Recent Posts in {{ page.categories}}</h2>
                     	</header>
-
-
                     	<div class="posts">
 
                         {% assign count = 0 %}
@@ -220,26 +178,27 @@
                     					               <h2>{{ post.title}}</h2>
                     					               <p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
                     					            </header>
-                    				{{ post.description | strip_html | strip_newlines | truncate: 150 }} <br/>
-                              <br/>
-                    				<ul class="actions">
-                    					<li><a href="{{ post.url }}" class="button special">Read Now</a></li>
-                    				</ul>
-                    			</article>
+                    				                  {{ post.description | strip_html | strip_newlines | truncate: 150 }} <br/>
+                                              <br/>
+                    				                     <ul class="actions">
+                    					                     <li><a href="{{ post.url }}" class="button special">Read Now</a></li>
+                    				                     </ul>
+                    			         </article>
                           {% endif %}
                           {% endif %}
                           {% endif %}
                     		{% endfor %}
+                      </div>
 
-                      </article>
 
               {% endif %}
                       {% if count == 0 %}
                           <hr class="major" />
-                      <section>
+                          <section>
                       	<header class="major">
                       		<h2>Recent Posts</h2>
                       	</header>
+
                       	<div class="posts">
 
                       		{% for post in site.posts offset:1 limit: 6 %}
@@ -250,7 +209,7 @@
                       					<p>{{ post.date | date_to_string }} - {{ post.categories }}</p>
                       					</header>
                       				{{ post.description | strip_html | strip_newlines | truncate: 150 }} <br/>
-                      <br/>
+                              <br/>
                       				<ul class="actions">
                       					<li><a href="{{ post.url }}" class="button special">Read Now</a></li>
                       				</ul>
@@ -261,14 +220,14 @@
                       	</div>
                       </section>
                       {% endif %}
-</div>
+                    </div>
               </div>
-          </div>
+        </div>
 
           {% include sidebar.html %}
 
-      </div>
 
+{% include footer.html %}
 
       <style>
         .pagesnavigation a, .pagesnavigation span {
@@ -300,8 +259,6 @@
           text-align: center;
        }
        </style>
-
-      {% include footer.html %}
 
 </body>
 
