@@ -20,7 +20,7 @@ The concept of approach is all about how I aim to look at and digest all of the 
 The first step within this system is nothing new or special. In fact, basically every trader I know does this, regardless of profitability. I take a top-down approach to the market, and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m to further refine these key areas. Generally, I'll stay on these lower time frames (1H/4H) and look for candle close confirmation for entries. Only after taking a look at the overall market picture do we begin to look at additional criteria.
 
 <h3>Criteria</h3>
-While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below. These techniques and indicators are by no means comprehensive nor representative of all possible te, but are the ones that I am familiar with using. These topics will also be covered in detail in future posts from this series. In no particular order:
+While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below. These techniques and indicators are by no means comprehensive nor representative of all possible techniques, but are simply just the ones that I am familiar with using. These topics will also be covered in detail in future posts from this series. In no particular order:
 
 <dl>
   <dt><b>1. Order Flow</b></dt>
