@@ -5,7 +5,7 @@ date: 2020-03-14
 thumbnail: /assets/images/trader-progress/BTC-challenge.jpg
 alt: My Journey To Becoming A Full-Time Trader - The BTC Challenge
 categories: [Trader-Progress]
-tags: [BTC Challenge]
+tags: [Progress Reports]
 description: In this post, I lay out the exact goal-setting and preparation that I did to allow myself the greatest chance of success at becoming a full-time trader.
 ---
 

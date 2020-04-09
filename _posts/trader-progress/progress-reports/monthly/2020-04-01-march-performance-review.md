@@ -5,7 +5,7 @@ date: 2020-04-01
 thumbnail: /assets/images/trader-progress/march-performance-review.jpeg
 alt: Monthly Performance Review - Tracked Using Edgewonk 2.0
 categories: [Trader-Progress]
-tags: [Monthly Review]
+tags: [Progress Reports]
 description: Performance review for March 2020. In the first post of this series, we go over some basic trade parameters, goal-setting, review techniques, and planning.
 ---
 
