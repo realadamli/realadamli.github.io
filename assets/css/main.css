@@ -3305,7 +3305,6 @@ ul {
 			width: calc(33.33333% - 6em);
 		}
 
-
 			.posts article:before {
 				background: rgba(210, 215, 217, 0.75);
 				content: '';
@@ -3791,6 +3790,7 @@ ul {
 				body.is-loading #sidebar {
 					display: none;
 				}
+
 		}
 
 /* Header */
