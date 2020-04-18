@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-10T04:00:44+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">Thinking In Bets (Annie Duke) - Chapter 1</title><link href="https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1/" rel="alternate" type="text/html" title="Thinking In Bets (Annie Duke) - Chapter 1" /><published>2020-04-10T00:00:00+00:00</published><updated>2020-04-10T00:00:00+00:00</updated><id>https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1</id><content type="html" xml:base="https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1/">&lt;h3&gt;Overview&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-18T13:51:16+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">Trade Review - XBTUSD (April 18th, 2020)</title><link href="https://koan-trading.com/blog/trader%20progress/2020/04/18/trade-review-xbtusd-long/" rel="alternate" type="text/html" title="Trade Review - XBTUSD (April 18th, 2020)" /><published>2020-04-18T00:00:00+00:00</published><updated>2020-04-18T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader%20progress/2020/04/18/trade-review-xbtusd-long</id><content type="html" xml:base="https://koan-trading.com/blog/trader%20progress/2020/04/18/trade-review-xbtusd-long/">&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to take a long because price moved outside of the previous day value area, and seemed to show acceptance. My target was set at the range high, where I thought we would have a SFP and drop lower. Stop was placed right below the range POC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Execution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used a market-order to enter into the market. This 100% should have been a limit order, but I was too impatient.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the trade was stopped out as I don’t trade on Bitmex. I trade on ByBit, so unfortunately the price action there is a bit different. Additionally, the new BTCUSDT chart from ByBit is not on TradingView yet, so I was unable to do comprehensive data analysis to find the best price points. This is very disheartening as you can see price coming back to test the POC before ultimately moving up toward my target. This has been a recurring issue lately, so I need to address this somehow. Perhaps I will move to FTX.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While the market showed clear signs of acceptance, I should have closed and re-entered lower as soon as I saw buyers attempt to take initiative and fail to push price higher. This was a clear sign that while there was acceptance, there was not enough follow through from buyers. A re-entry at the range POC would have seen optimal trade location.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall Score:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Setup: Above Average - 7/10 (good initial analysis, but lack of additional supporting factors)&lt;/p&gt;
+
+&lt;p&gt;Execution: Mediocre - 5/10 (impatient entry)&lt;/p&gt;
+
+&lt;p&gt;Trade Management: Below Average - 3.5/10 (failure to adapt to changing conditions)&lt;/p&gt;</content><author><name>Adam Li</name></author><category term="Trade Review" /><summary type="html">Setup</summary></entry><entry><title type="html">Thinking In Bets (Annie Duke) - Chapter 1</title><link href="https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1/" rel="alternate" type="text/html" title="Thinking In Bets (Annie Duke) - Chapter 1" /><published>2020-04-10T00:00:00+00:00</published><updated>2020-04-10T00:00:00+00:00</updated><id>https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1</id><content type="html" xml:base="https://koan-trading.com/blog/education/2020/04/10/thinking-in-bets-chapter-1/">&lt;h3&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Annie Duke, nicknamed “The Duchess of Poker” and a World Series of Poker gold bracelet holder, is a professional poker player, business consultant, and author, best known for her work on human behavior and decision-making. Her book, “Thinking In Bets”, sheds light on how our everyday decisions and our opinions/biases about those decisions affect our daily life. The book discusses the element of uncontrollable luck, games of incomplete information, and how we can use uncertainty to our advantage. In this post, we’ll go over the first few chapters of the book, as well as some additional commentary on how to possibly apply this to trading and trading performance.&lt;/p&gt;
 
 &lt;h3&gt;Chapter 1: Life Is Poker, Not Chess&lt;/h3&gt;
@@ -92,6 +114,8 @@ System 1:&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Reflex, instinct, intuition, impulse, au
 
 &lt;h3&gt;Schedule&lt;/h3&gt;
 &lt;p&gt;Finally, this is the schedule that I am currently working with. I’ve split it into blocks/routines, where each section may be comprised of multiple smaller tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;**&lt;/em&gt;Edit: To spread tasks out a bit and to give myself a break between sessions, I’ve split the personal health routine up into a few seperate sessions. I place these in between the Work Blocks to keep myself active and healthy. 4 hours a day are dedicated to learning, 3 to personal health, 4 to my freelance work, 1.5 to a daily blog post, 2 to trading, 2 to miscellaneous activities and eating, and 7.5 to sleep.&lt;/p&gt;
 
 &lt;div class=&quot;table-wrapper&quot;&gt;
   &lt;table class=&quot;alt&quot;&gt;
