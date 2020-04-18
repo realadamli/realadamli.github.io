@@ -15,6 +15,7 @@ gem "json"
 gem "hash-joiner"
 gem 'wdm', '>= 0.1.0'
 
+
 # Optional: Add any custom plugins here.
 # Some useful examples are listed below
 group :jekyll_plugins do
@@ -22,4 +23,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-redirect-from"
   gem 'algoliasearch-jekyll'
+  gem 'jekyll-admin'
 end

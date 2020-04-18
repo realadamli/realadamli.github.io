@@ -1,12 +1,15 @@
 ---
+title: How I Optimize My Daily Routine
 layout: post
-title: "How I Optimize My Daily Routine"
-date: 2020-04-09
-thumbnail: /assets/images/miscellaneous/optimizing-daily-routine.jpg
+date: '2020-04-09'
+thumbnail: "/assets/images/miscellaneous/optimizing-daily-routine.jpg"
 alt: Dolomites Mountains - 4K Wallpaper from hdwallpapers.in
-categories: [Miscellaneous]
-tags: [Health & Fitness]
-description: A full breakdown of my daily schedule and the optimizations I made to fit my own personality and psychology.
+categories:
+- Miscellaneous
+tags:
+- Health & Fitness
+description: A full breakdown of my daily schedule and the optimizations I made to
+  fit my own personality and psychology.
 ---
 
 <h3>Overview</h3>
@@ -47,6 +50,8 @@ With these goals in mind, we can start creating a list of potential value-add ac
 
 <h3>Schedule</h3>
 Finally, this is the schedule that I am currently working with. I've split it into blocks/routines, where each section may be comprised of multiple smaller tasks.
+
+****Edit: To spread tasks out a bit and to give myself a break between sessions, I've split the personal health routine up into a few seperate sessions. I place these in between the Work Blocks to keep myself active and healthy. 4 hours a day are dedicated to learning, 3 to personal health, 4 to my freelance work, 1.5 to a daily blog post, 2 to trading, 2 to miscellaneous activities and eating, and 7.5 to sleep.
 
 <div class="table-wrapper">
   <table class="alt">
