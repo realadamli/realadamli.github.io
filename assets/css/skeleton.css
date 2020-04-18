@@ -39,7 +39,7 @@ body {
 .container {
   margin-right: auto;
   margin-left: auto;
-  width: 95%;
+  width: 90%;
   max-width: 1200px;
   padding-left:0rem;
   padding-right: 0rem;
@@ -48,7 +48,7 @@ body {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  width: 95%;
+  width: 90%;
   max-width: 800px;
   padding-left: 0rem;
   padding-right: 0rem;
