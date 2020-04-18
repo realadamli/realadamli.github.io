@@ -3,7 +3,7 @@ title: Trade Review - XBTUSD (April 18th, 2020)
 date: 2020-04-18
 layout: post
 alt: 'Trade Review (XBTUSD: Long) - Break from Balance'
-categories: [Trader Progress]
+categories: [Trader-Progress]
 description: A quick review of one of my trades. We go over the setup, execution,
   result, and additional notes on how to improve for next time.
 thumbnail: /assets/images/trader-progress/041820-XBTUSD.png
