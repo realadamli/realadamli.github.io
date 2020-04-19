@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-18T14:41:09+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">Trade Review - XBTUSD (April 18th, 2020)</title><link href="https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long/" rel="alternate" type="text/html" title="Trade Review - XBTUSD (April 18th, 2020)" /><published>2020-04-18T00:00:00+00:00</published><updated>2020-04-18T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long</id><content type="html" xml:base="https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long/">&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_US"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://koan-trading.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://koan-trading.com/" rel="alternate" type="text/html" hreflang="en_US" /><updated>2020-04-19T14:32:32+00:00</updated><id>https://koan-trading.com/feed.xml</id><title type="html">Kōan Trading - Order Flow, Market Profile, and Technical Analysis</title><subtitle>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</subtitle><author><name>Adam Li</name></author><entry><title type="html">Weekly Debrief (April 19th, 2020)</title><link href="https://koan-trading.com/blog/trader-progress/2020/04/19/weekly-debrief/" rel="alternate" type="text/html" title="Weekly Debrief (April 19th, 2020)" /><published>2020-04-19T00:00:00+00:00</published><updated>2020-04-19T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader-progress/2020/04/19/weekly-debrief</id><content type="html" xml:base="https://koan-trading.com/blog/trader-progress/2020/04/19/weekly-debrief/">&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week, I put a lot of emphasis on trading Market Profile. This meant primarily two types of trades: VAH/VAL mean reversion trades and Break From Balance trades. While the data for this week is negative, I’m extremely happy with the progress I’ve made in testing this theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trades Taken: 6&lt;/p&gt;
+
+&lt;p&gt;Winners: 2&lt;/p&gt;
+
+&lt;p&gt;Losers: 4&lt;/p&gt;
+
+&lt;p&gt;Winrate: 33.33%&lt;/p&gt;
+
+&lt;p&gt;PnL: -4.58%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the primary reasons for the negative PnL is execution. I found that while my VAH/VAL strategy works more often than not, I have a tendency to go on tilt after a stopped trade. This led to poor entries, poor decisions, and an overall loss for the week. Unfortunately, this also caused me to enter into an over-leveraged swing short, which is pretty underwater right now. Liquidation price is nowhere near though, so the risk isn’t too high. I have enough room to be able to close the trade once my thesis is invalidated, albeit at a huge relative loss of capital. I found that my analysis was quite accurate, but my poor execution was the main culprit for the poor performance. This is a recurring theme in my trading, and one that I am trying very hard to fix.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent the vast majority of this week learning Order Flow and Market Profile. Combined with this, I feel like I’ve been able to understand why some of the trades I took this week failed. Simply put, Market Profile is a great tool to get context, but Order Flow is really what I should be using to get sniper-level entries and stop positions. It really is something amazing. Particularly, I want to look at High Volume Nodes as optimal entry areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next week, I would like to focus on dialing in entries, and tightening up my stops. I’m slowly gravitating towards a more scalp-focused style of trading, as it allows me to be in and out of the market quickly without having to hold positions overnight. Additionally, I want to continue to refine the way that I look at the market, as I feel like I am improving a lot on that aspect.&lt;/p&gt;</content><author><name>Adam Li</name></author><category term="Weekly Debrief" /><summary type="html">Overview</summary></entry><entry><title type="html">Trade Review - XBTUSD (April 18th, 2020)</title><link href="https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long/" rel="alternate" type="text/html" title="Trade Review - XBTUSD (April 18th, 2020)" /><published>2020-04-18T00:00:00+00:00</published><updated>2020-04-18T00:00:00+00:00</updated><id>https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long</id><content type="html" xml:base="https://koan-trading.com/blog/trader-progress/2020/04/18/trade-review-xbtusd-long/">&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I decided to take a long because price moved outside of the previous day value area, and seemed to show acceptance. My target was set at the range high, where I thought we would have a SFP and drop lower. Stop was placed right below the range POC.&lt;/p&gt;
 
