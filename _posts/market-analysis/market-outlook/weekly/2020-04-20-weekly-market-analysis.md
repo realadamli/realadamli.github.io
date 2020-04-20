@@ -24,6 +24,7 @@ As you can see, Bitcoin has been consistently making higher highs and higher low
 While Bitcoin's correlation with the equities market has dropped a bit, the upcoming weeks will be incredibly vital. If the equities market can complete a v-bottom reversal, then Bitcoin will likely follow. However, if the current rally turns out to be nothing more than a relief rally, Bitcoin will most likely follow in the drop. I don't know enough about economics or fundamentals to give accurate analysis on this, but all eyes are on the Federal Reserve and their money-printing machine. The recent aid given to small businesses has already run out of money, but a new 2k/month stimulus is in the works of being discussed. Can the Fed keep propping up the economy? The similarities of this crash to previous ones are shockingly similar (particularly the Great Depression). Large crash followed by heavy ~50 retrace, followed by further downside.
 
 **Technical Analysis**
+
 From a technical standpoint, we are developing a rising wedge which is seen as a bearish pattern. Additionally we tested the 7.3k point of control before before rejected on relatively high volume (2x the 20 day average). This structure could be argued as the first lower high of the structure.
 
 Additionally, 6.3k still has a naked Point of Control that has yet to be touched (which coincides nicely with a technical break target of this rising wedge). On-balance volume seems to have topped out as well, showing higher buyer participation but with price decreasing. The relative strength index shows no real conviction in either direction. Price is hovering at the 50% Fibonacci retracement level from the 10k top, but seemed to be unable to reclaim this level.
@@ -31,6 +32,7 @@ Additionally, 6.3k still has a naked Point of Control that has yet to be touched
 Current price action from the past week closely resembles price action from the end of March and beginning of April. However, as is the nature of fractals, market structure also resembles the entire structure from the recent 10k trend in Jan/Feb/early March, where price ultimately failed to make higher highs and began to crash (leading to the March 12/13 crash).
 
 **Bullish Case**
+
 Bulls would want to see 7.4k get reclaimed, which all but guarantees a 7.7-8k retest. If price is able to reclaim this level, then it could be fair to say that the v-bottom reversal is complete, and next targets would be around 10k.
 
 It is clear that institutions are investing into Bitcoin, but the extent to which they are doing so is not quite clear at this point. The infamous Stock-2-Flow model also predicts a rapid increase in the price of Bitcoin after the halvening. Overall, it's easy to see the bullish reasons for Bitcoin, and I think that having a reasonable level of exposure here would be a smart idea.
@@ -42,6 +44,7 @@ Best long-term strategy: Buy-hold
 Best trading strategy: Dips are for buying
 
 **Neutral Case**
+
 There is potential for a Wyckoff Accumulation schematic to occur here, but it is difficult to determine the presence of the upwards thrust until we see downwards price action. A completion of this schematic would see price range between ~7.5k and 3k. If this were to come true, then the next few months would see incredibly choppy price action as whales are able to easily manipulate and control the market.
 
 A range like this would most likely last well into the second quarter of 2021, with multiple retests of both the 3.5-4k area as well as the 7-7.4k area (assuming that the upwards thrust has already been seen). This will give investors ample time to accumulate at relatively cheap prices, and given the efficiency of the Bitcoin mining hardware (allegedly), won't be too cheap that miners will be forced to liquidate their holdings and cause a downward spiral of selling pressure.
@@ -53,6 +56,7 @@ Best long-term strategy: Dollar-Cost Average
 Best trading strategy: Swing trade the range extremes and scalp the tight mini-ranges using order flow
 
 **Bearish Case**
+
 Bears would want to see price ultimately drop below 3k and head towards the previous bull run's ATH at around 1.2k. Price may ultimate end up ranging between there and 3k for an extended accumulation phase. If this were to happen, it would cause massive pressure to less efficient miners, possibly  resulting in miner capitulation. We would see the network hash rate drop drastically as miners are forced to close businesses, and a full network "cleansing" would take place.
 
 Given the fact that each successive bullrun takes exponentially longer to complete (regardless of halvening time), this could be a real potential outcome. From a logical perspective, it makes sense. Bitcoin has become an established asset with a relatively mid-size market cap. In order to propel it to the 100k+ predictions, a long and extended accumulation phase is almost necessary.
