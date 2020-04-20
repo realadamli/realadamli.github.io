@@ -1,6 +1,6 @@
 ---
-title: Weekly Market Analysis (April 20th, 2020)
-thumbnail: "/assets/images/market-analysis/042020-XBTUSD.png"
+title: "Weekly Market Analysis (April 20th, 2020)"
+thumbnail: /assets/images/market-analysis/042020-XBTUSD.png
 layout: post
 date: 2020-04-20
 alt: 4H Chart for XBTUSD (Bitmex)
