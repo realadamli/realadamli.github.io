@@ -1,12 +1,16 @@
 ---
+title: Principles - Ray Dalio (Part 1)
 layout: post
-title: "Principles - Ray Dalio (Part 1)"
-date: 2020-04-21
-thumbnail: /assets/images/education/ray-dalio-principles.jpeg
-alt: Principles by Ray Dalio
-categories: [Education]
-tags: [Principles]
-description: Part 1 summary of Principles, a detailed look into the mind of the legendary Bridgewater Associates Founder and Co-Chief Investment Officer Ray Dalio.
+date: '2020-04-21'
+thumbnail: "/assets/images/education/ray_dalio_principles.jpg"
+alt: 'Principles by Ray Dalio (Pic: veronicastenberg.com)'
+categories:
+- Education
+tags:
+- Principles
+description: Brief summary of Part 1 of Principles, a detailed look into the mind
+  of the legendary Bridgewater Associates Founder and Co-Chief Investment Officer
+  Ray Dalio.
 ---
 
 **Introduction**
