@@ -2,7 +2,7 @@
 layout: post
 title: "Becoming A Trader: The BTC Challenge"
 date: 2020-03-14
-thumbnail: /assets/images/trader-progress/BTC-challenge.jpg
+image: /assets/images/trader-progress/BTC-challenge.jpg
 alt: My Journey To Becoming A Full-Time Trader - The BTC Challenge
 categories: [Trader-Progress]
 tags: [Progress Reports]

@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Debrief (April 19th, 2020)"
 date: 2020-04-19
-thumbnail: /assets/images/trader-progress/march-performance-review.jpeg
+image: /assets/images/trader-progress/march-performance-review.jpeg
 alt: Weekly Debrief - Room For Improvement
 categories: [Trader-Progress]
 tags: [Weekly Debrief]

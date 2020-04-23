@@ -2,7 +2,7 @@
 title: Principles - Ray Dalio (Part 1)
 layout: post
 date: '2020-04-21'
-thumbnail: "/assets/images/education/ray_dalio_principles.jpg"
+image: "/assets/images/education/ray_dalio_principles.jpg"
 alt: 'Principles by Ray Dalio (Pic: veronicastenberg.com)'
 categories:
 - Education

@@ -6,7 +6,7 @@ alt: 'Trade Review (XBTUSD: Long) - Break from Balance'
 categories: [Trader-Progress]
 description: A quick review of one of my trades. We go over the setup, execution,
   result, and additional notes on how to improve for next time.
-thumbnail: /assets/images/trader-progress/041820-XBTUSD.png
+image: /assets/images/trader-progress/041820-XBTUSD.png
 tags: [Trade Review]
 ---
 
