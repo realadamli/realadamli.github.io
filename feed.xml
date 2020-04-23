@@ -5,9 +5,6 @@
   <channel>
     <title></title>
     <description>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</description>
-    <webfeeds:cover image="https://koan-trading.com/assets/images/banner.jpg" />
-    <webfeeds:icon>https://koan-trading.com/assets/images/favicon.ico</webfeeds:icon>
-    <webfeeds:logo>https://koan-trading.com/assets/images/favicon.ico</webfeeds:logo>
     <link>https://koan-trading.com</link>
     <atom:link href="https://koan-trading.com/feed.xml" rel="self" type="application/rss+xml" />
     
