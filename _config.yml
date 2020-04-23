@@ -46,7 +46,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate-v2
   - jekyll-redirect-from
-  - jekyll-feed
 
 algolia:
   application_id: '04Q1P40FUX'
