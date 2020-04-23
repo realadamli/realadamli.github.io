@@ -8,9 +8,6 @@ layout: none
   <channel>
     <title>{{ site.name | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <webfeeds:cover image="https://koan-trading.com/assets/images/banner.jpg" />
-    <webfeeds:icon>https://koan-trading.com/assets/images/favicon.ico</webfeeds:icon>
-    <webfeeds:logo>https://koan-trading.com/assets/images/favicon.ico</webfeeds:logo>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
