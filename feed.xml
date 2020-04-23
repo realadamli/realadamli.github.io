@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title></title>
     <description>Personal trading and development blog. Market analysis, trades and trader progress reports, educational resources, and trading-related content.</description>
@@ -118,6 +120,473 @@
         <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
         <link>https://koan-trading.com//blog/market-analysis/2020/04/20/weekly-market-analysis/</link>
         <guid isPermaLink="true">https://koan-trading.com//blog/market-analysis/2020/04/20/weekly-market-analysis/</guid>
+      </item>
+    
+      <item>
+        <title>Weekly Debrief (April 19th, 2020)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week, I put a lot of emphasis on trading Market Profile. This meant primarily two types of trades: VAH/VAL mean reversion trades and Break From Balance trades. While the data for this week is negative, I’m extremely happy with the progress I’ve made in testing this theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trades Taken: 6&lt;/p&gt;
+
+&lt;p&gt;Winners: 2&lt;/p&gt;
+
+&lt;p&gt;Losers: 4&lt;/p&gt;
+
+&lt;p&gt;Winrate: 33.33%&lt;/p&gt;
+
+&lt;p&gt;PnL: -4.58%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the primary reasons for the negative PnL is execution. I found that while my VAH/VAL strategy works more often than not, I have a tendency to go on tilt after a stopped trade. This led to poor entries, poor decisions, and an overall loss for the week. Unfortunately, this also caused me to enter into an over-leveraged swing short, which is pretty underwater right now. Liquidation price is nowhere near though, so the risk isn’t too high. I have enough room to be able to close the trade once my thesis is invalidated, albeit at a huge relative loss of capital. I found that my analysis was quite accurate, but my poor execution was the main culprit for the poor performance. This is a recurring theme in my trading, and one that I am trying very hard to fix.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent the vast majority of this week learning Order Flow and Market Profile. Combined with this, I feel like I’ve been able to understand why some of the trades I took this week failed. Simply put, Market Profile is a great tool to get context, but Order Flow is really what I should be using to get sniper-level entries and stop positions. It really is something amazing. Particularly, I want to look at High Volume Nodes as optimal entry areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next week, I would like to focus on dialing in entries, and tightening up my stops. I’m slowly gravitating towards a more scalp-focused style of trading, as it allows me to be in and out of the market quickly without having to hold positions overnight. Additionally, I want to continue to refine the way that I look at the market, as I feel like I am improving a lot on that aspect.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/trader-progress/2020/04/19/weekly-debrief/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/trader-progress/2020/04/19/weekly-debrief/</guid>
+      </item>
+    
+      <item>
+        <title>Trade Review - XBTUSD (April 18th, 2020)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to take a long because price moved outside of the previous day value area, and seemed to show acceptance. My target was set at the range high, where I thought we would have a SFP and drop lower. Stop was placed right below the range POC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Execution&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I used a market-order to enter into the market. This 100% should have been a limit order, but I was too impatient.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the trade was stopped out as I don’t trade on Bitmex. I trade on ByBit, so unfortunately the price action there is a bit different. Additionally, the new BTCUSDT chart from ByBit is not on TradingView yet, so I was unable to do comprehensive data analysis to find the best price points. This is very disheartening as you can see price coming back to test the POC before ultimately moving up toward my target. This has been a recurring issue lately, so I need to address this somehow. Perhaps I will move to FTX.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While the market showed clear signs of acceptance, I should have closed and re-entered lower as soon as I saw buyers attempt to take initiative and fail to push price higher. This was a clear sign that while there was acceptance, there was not enough follow through from buyers. A re-entry at the range POC would have seen optimal trade location.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overall Score:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Setup: Above Average - 7/10 (good initial analysis, but lack of additional supporting factors)&lt;/p&gt;
+
+&lt;p&gt;Execution: Mediocre - 5/10 (impatient entry)&lt;/p&gt;
+
+&lt;p&gt;Trade Management: Below Average - 3.5/10 (failure to adapt to changing conditions)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/trader-progress/2020/04/18/trade-review-xbtusd-long/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/trader-progress/2020/04/18/trade-review-xbtusd-long/</guid>
+      </item>
+    
+      <item>
+        <title>Thinking In Bets (Annie Duke) - Chapter 1</title>
+        <description>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Annie Duke, nicknamed “The Duchess of Poker” and a World Series of Poker gold bracelet holder, is a professional poker player, business consultant, and author, best known for her work on human behavior and decision-making. Her book, “Thinking In Bets”, sheds light on how our everyday decisions and our opinions/biases about those decisions affect our daily life. The book discusses the element of uncontrollable luck, games of incomplete information, and how we can use uncertainty to our advantage. In this post, we’ll go over the first few chapters of the book, as well as some additional commentary on how to possibly apply this to trading and trading performance.&lt;/p&gt;
+
+&lt;h3&gt;Chapter 1: Life Is Poker, Not Chess&lt;/h3&gt;
+&lt;p&gt;The main idea of Chapter 1 is that we often tie the “goodness” or “badness” of a decision based on the result (known as resulting). Annie gives the example of coach Pete Carroll from the Seattle Seahawks, where he called for a controversial play in the last moments of the 2015 Super Bowl. Without going into the specifics, the play ended up not working and Pete was bombarded by the public with criticism and insults. However, can you imagine if the play had worked? Instead of being dragged through the gutter, Pete would have been praised for his “brilliant call” and for being one of the top coaches in the league. It’s important to note here that Pete’s call was not a “hail mary” play (one where the probability of success is low but can win you the game if it succeeds). Instead, it was a good-quality decision that he came to after serious deliberation and thought. It was just unfortunate that the result did not go his way. This brings up a very good point about our psychology:&lt;/p&gt;
+
+&lt;p&gt;Humans are inherently bad at separating luck and skill.&lt;/p&gt;
+
+&lt;p&gt;Think about how you frame good and bad results. If you think back to the best decision you made last year, then the worst decision you made, you may find that the good decision preceded a good result and the bad decision preceded a bad result. However, just because the result was positive doesn’t necessarily mean the decision was good. For example, if you drive home under the influence successfully, that doesn’t make driving under the influence a good decision. You just got lucky! Beliefs like this develop from the correlation we give to the relationship between our decisions and the outcomes of our decisions.&lt;/p&gt;
+
+&lt;p&gt;But why is this?&lt;/p&gt;
+
+&lt;blockquote&gt;To start, our brains evolved to create certainty and order. We are uncomfortable with the idea that luck plays a significant role in our lives. We recognize the existence of luck, but we resist the idea that, despite our best efforts, things might not work out the way we want. It feels better for us to imagine the world as an orderly place, where randomness does not wreak havoc and things are perfectly predictable. We evolved to see the world that way. Creating order out of chaos has been necessary for our survival.&lt;/blockquote&gt;
+
+&lt;p&gt;Annie goes on to talk about how our ancestors had a strong need to be able to find predictable connections (bush rustling = tiger coming). It’s much safer from a predator-prey standpoint to incorrectly deduce that the rustling in the bush is a tiger (false positive). On the other hand, it’s fatal to assume that the rustling is just the wind when in fact it was a tiger (false negative). Because of the fact that humans seek certainty, it creates many psychological biases and cognitive traps (correlation =/= causation!).&lt;/p&gt;
+
+&lt;p&gt;The idea that we have different brain functions that compete to control our decisions has been thoroughly documented in psychology, such as in Daniel Kahneman’s “Thinking Fast and Slow” and multiple other sources. The basic idea is simple: we have two modes of thinking (what you call them is not important, but for the sake of simplicity I will use “System 1” and “System 2” from “Thinking Fast and Slow”).&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;&lt;b&gt;
+System 1:&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Reflex, instinct, intuition, impulse, automatic processing. Largely used almost unconsciously (the reflexive system).&lt;/dd&gt;&lt;br /&gt;
+
+
+&lt;dt&gt;&lt;b&gt;System 2:&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Complex decisions, concentration, anything that requires mental energy. Basically anything that requires us to think or calculate (the deliberative system).&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;System 1 holds numerous shortcuts (basically instincts, reflexes, habits) designed to keep us alive, executing thousands of decisions every day. However, these shortcuts often come at a cost, and is often prone to bias and error. The goal is not to change the way our brains work, but to understand and figure out how to work within the constraints of our brain. We can look for practical strategies that help us take advantage of our brain’s strengths and minimize its weaknesses.&lt;/p&gt;
+
+&lt;blockquote&gt;Our goal is to get our reflexive minds to execute on our deliberative minds' best intentions.&lt;/blockquote&gt;
+
+&lt;p&gt;Arenas like poker (and trading) are excellent for finding these strategies. We have to make multiple decisions in short periods of time, each with its own financial consequence, all while moving towards a deliberate long-term goal. We need to not only this all this, but also adapt to changing conditions in a game with other players that have unknown variables and are also competing and trying to beat you. Additionally, we are also required to collect and analyze all of this data in an attempt to improve our edge (all while discerning between what was luck and what was skill). Then, even if we know the theory, we still need to execute our gameplan, stay rational, and keep emotions out of the process. This is what makes games of incomplete information like poker or trading so difficult.&lt;/p&gt;
+
+&lt;p&gt;One of the main takeaways from this chapter is this idea that life is a game of incomplete information (like poker). Unlike games of complete information (like chess), there is no certainty in your decision making process. You can go back in chess and find exactly where you made a mistake and exactly where a better move was, but you can’t do that in poker (and life). There is this element of uncertainty, where valuable information remains hidden and there is an element of luck in any outcome. You can make the best decisions possible in games of incomplete information and still lose. This is why it’s so important to separate the quality of a decision and its outcome, and also be okay with being uncertain (it’s okay to say “I don’t know”).&lt;/p&gt;
+
+&lt;blockquote&gt;What makes a decision great is not that is has a great outcome. A great decision is the result of a good process, and that process must include an attempt to accurately represent our own state of knowledge. That state of knowledge, in turn, is some variation of &quot;I'm not sure.&quot;&lt;/blockquote&gt;
+
+&lt;p&gt;Good decision makers are comfortable with the fact that the world is uncertain. Instead of focusing on being certain, they use the information they have to try and make the best calculated decision they can. Sometimes, this might even mean picking the “least-worst” one that doesn’t even have a high chance of success! Chasing certainty puts you in a black and white world, but in reality its a spectrum. We can change this by reframing the way we look at the idea of “wrong”. Instead of looking at it as “wrong” and/or “right”, we can look at decisions or plays as percentages (I am 60% certain, etc.), and adjust these percentages according to the amount of information we have. It’s important to note that percentages are just that, percentages. Just because you have a 90% chance of success does not mean that you will succeed. The example used in the book refers to the polling percentages for the 2016 presidency and the betting shops for the Brexit vote. Both times the outcome was the option with the lower percentage, but that does not mean that the polls or the betting shops were wrong.&lt;/p&gt;
+
+&lt;blockquote&gt;Decisions are bets on the future, and they aren't &quot;right&quot; or &quot;wrong&quot; based on whether they turn out well on any particular iteration. An unwanted result doesn't make our decision wrong if we thought about the alternatives and probabilites in advance and allocated our resources accordingly...&lt;/blockquote&gt;
+
+&lt;p&gt;While redefining wrong allows us to make better decisions as we move from thinking in black and white to thinking in shades of grey, we must also redefine what “right” means. If our decision wasn’t wrong just because we didn’t get the projected outcome, it doesn’t mean our decision was right just because it turned out the way we wanted it to. We need to be able to objectively analyze (to the best of our ability) when we made good and bad decisions, regardless of outcome.&lt;/p&gt;
+
+&lt;blockquote&gt;...being wrong hurts us more than being right feels good. We know... that losses in general feel about two times as bad as wins feel good.&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/education/2020/04/10/thinking-in-bets-chapter-1/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/education/2020/04/10/thinking-in-bets-chapter-1/</guid>
+      </item>
+    
+      <item>
+        <title>How I Optimize My Daily Routine</title>
+        <description>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;I’ve always believed that structure is a vital component to a person’s chance of success, yet my own life has always been unstructured and messy. In order for me to take trading seriously, it was crucial that I also take the other factors of my life into account as well. This post goes into my thought process, goals, and end-result of what I think is the most optimal schedule (for me, personally). It may also provide some insight for anyone looking to learn more about how to approach their daily life in a methodical or systematic manner.&lt;/p&gt;
+
+&lt;h3&gt;Assumptions&lt;/h3&gt;
+&lt;p&gt;To create a tailored schedule that was as efficient and optimal as possible, I first needed to make a few basic assumptions about my own personality, habits, and tendencies. To start, I made two major assumptions about my psychology.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;&lt;b&gt;Assumption 1: &quot;Balance is for suckers.&quot;&lt;/b&gt;&lt;/dt&gt;
+&lt;dd&gt;Initially, the title of this assumption may be bit misleading. While we hear about the word &quot;balance&quot; in society a lot, I do not believe that balance is the end all be all solution to everyone's problems. For some people it may work great, but personally I believe that I have a very &quot;all-in&quot; personality, where I either do something 100% or not at all (basically, I am terrible at balance). Because of this, it was essential for my schedule to reflect this. This meant that if I wanted to succeed at trading, I need to assume that I would have to reorganize my entire schedule to revolve around it.&lt;/dd&gt;&lt;br /&gt;
+
+&lt;dt&gt;&lt;b&gt;Assumption 2: &quot;Habits are difficult to form but easy to break.&quot;&lt;/b&gt;&lt;/dt&gt;
+&lt;dd&gt;Thanks to my all-in personality, I am also very impulsive. This makes it very difficult to stay on track of tasks as soon as new variables are introduced to the equation. Habits are difficult to form, but even more difficult to keep, and I find myself derailing from my schedule as soon as a minor side task or distraction comes around. This means my schedule needs to contain as many tricks or techniques to keep me focused as possible, and needs to cut out as much noise and distractions as possible.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3&gt;Goals&lt;/h3&gt;
+&lt;p&gt;With these assumptions made, I established a few goals that I wanted this schedule to achieve. These are different from the long-term goals that I set out in my “BTC Challenge” post, but rather just a few ideas to keep in mind when formulating the plan.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Eliminate all non-essential decisions to the best of my ability. This means having the exact same schedule every day of the week, eating the same thing every day to maintain caloric goals, and in general just making as little non-trading decisions to my life as possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For all essential decisions, I want to have a clear “flow” in place so that I can go from start to end as fluidly as possible. For example, this means creating a clear documentation process/template for this blog as well as Twitter (I don’t want to waste time figuring out what to write, but rather I can just fill in some pre-existing boxes).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;Initiatives and Optimizations&lt;/h3&gt;
+&lt;p&gt;With these goals in mind, we can start creating a list of potential value-add activities we want to add into our schedule. However, given our assumption about habits, we need to approach habit-building with a more methodical approach. To avoid burnout, we will slowly introduce new variables into the schedule as the older activities successfully turn into habits. To aid us in this, we will be using a habit-tracking app (any will do, I personally use Streaks). Listed below are the majority of the activities I plan to add.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;2x Daily Meditation - the benefit here is two-fold. Meditation in the morning to help practice mental acuity and provide me improved professional performance. Meditation at night to aid in falling asleep as quickly as possible. I will be using Headspace, as I’ve found their gamification and design to be the most user-friendly for noobs like me.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Yoga - trading is mainly a sitting activity, and I do not have a standing desk. It’s crucial for me to be flexible and not have my body hold me back after sitting for many hours in the day. I will be using a free app called Down Dog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Workout - I’ve been into fitness for a long time, but recently I’ve let myself get out of shape (both from laziness as well as coronavirus). It is visibly affecting my life negatively, so I would like to get back into it. I’d like to be a bit more functional, as the past few years I’ve mainly focused on bodybuilding/powerlifting, so I’ve recently downloaded Nike Fitness Club and will be doing workouts on there. Bonus points for being able to do it at home.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Healthy Eating - Similar to #3, I haven’t been able to eat healthy and I feel lethargic and tired all the time. Because I used to be an athlete, I have a solid understanding of nutrition. So, moving forward I will be eating a 2400 calorie diet, 150-180g of protein, 20%-25% of calories will be fat and the rest will be carbohydrates. The goal with this was to slowly lose weight (~1 lb a week), so as to not impair my mental functionality if I were to be more aggressive (2+ lb a week).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cardio - an easy 2-for-1 here, with an hour of walking + an hour of audiobooks every day. I’m not a huge fan of audiobooks because I don’t retain as much information, but something is better than nothing. I’m lucky I have a giant park next to my house.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Books - will be spending the majority of my time reading books. To increase retention, I will be spending more time on each book, but I will be writing down notes and posting them here for future reference. These can be found under the “Education” section of this website.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;Schedule&lt;/h3&gt;
+&lt;p&gt;Finally, this is the schedule that I am currently working with. I’ve split it into blocks/routines, where each section may be comprised of multiple smaller tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;**&lt;/em&gt;Edit: To spread tasks out a bit and to give myself a break between sessions, I’ve split the personal health routine up into a few seperate sessions. I place these in between the Work Blocks to keep myself active and healthy. 4 hours a day are dedicated to learning, 3 to personal health, 4 to my freelance work, 1.5 to a daily blog post, 2 to trading, 2 to miscellaneous activities and eating, and 7.5 to sleep.&lt;/p&gt;
+
+&lt;div class=&quot;table-wrapper&quot;&gt;
+  &lt;table class=&quot;alt&quot;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Time&lt;/th&gt;
+        &lt;th&gt;Activity&lt;/th&gt;
+        &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;7:30AM&lt;/td&gt;
+        &lt;td&gt;Wake-up Routine&lt;/td&gt;
+        &lt;td&gt;Weigh-in, brush teeth, make bed, journal&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8:00AM&lt;/td&gt;
+        &lt;td&gt;Watch Daily Close&lt;/td&gt;
+        &lt;td&gt;8:00 is the UTC Daily Close for my time-zone&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;8:30AM&lt;/td&gt;
+        &lt;td&gt;Personal Health Routine&lt;/td&gt;
+        &lt;td&gt;Meditation, yoga, and a workout&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;10:30AM&lt;/td&gt;
+        &lt;td&gt;Lunch&lt;/td&gt;
+        &lt;td&gt;First meal of the day&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;11:00AM&lt;/td&gt;
+        &lt;td&gt;Work Block A&lt;/td&gt;
+        &lt;td&gt;Trading, reading books, blog post, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;1:00PM&lt;/td&gt;
+        &lt;td&gt;Walk&lt;/td&gt;
+        &lt;td&gt;Break in-between work blocks, cardio + audiobook&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;2:30PM&lt;/td&gt;
+        &lt;td&gt;Work Block B&lt;/td&gt;
+        &lt;td&gt;Trading, reading books, blog post, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;4:30PM&lt;/td&gt;
+        &lt;td&gt;Dinner&lt;/td&gt;
+        &lt;td&gt;Second meal of the day&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;5:00PM&lt;/td&gt;
+        &lt;td&gt;Work Block C&lt;/td&gt;
+        &lt;td&gt;Part-time job&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;9:00PM&lt;/td&gt;
+        &lt;td&gt;Work Block D&lt;/td&gt;
+        &lt;td&gt;Trading, reading books, blog post, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;12:00AM&lt;/td&gt;
+        &lt;td&gt;Sleep Routine&lt;/td&gt;
+        &lt;td&gt;Brush teeth, meditate, sleep&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Moving Forward&lt;/h3&gt;
+&lt;p&gt;Overall, I hope that this schedule will be able to help me stay on track of my goals and aid me in achieving the things I want to achieve. Over time, I will iteratively add or remove things that are working or not working, so everything is subject to change. Additionally, the time slots written in the schedule are not necessarily hard deadlines. It’s much better to do something later in the day than not at all just because “you missed it”. Thanks!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/miscellaneous/2020/04/09/how-i-optimize-my-daily-routine/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/miscellaneous/2020/04/09/how-i-optimize-my-daily-routine/</guid>
+      </item>
+    
+      <item>
+        <title>My Market Criteria: Introduction</title>
+        <description>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Welcome to the market criteria series! This series consists of my personal criteria that I look at for markets (primarily crypto) on both higher and lower time-frames. Today, we will quickly introduce and layout a simple framework that I use when making decisions to enter or exit the market. This framework consists of three main variables: approach, criteria, setups, and is the first iteration of my trading system and the first step in my trading journey. Let’s briefly talk about each one, as well as some additional information such as peripheral software, exchange platforms, progress reports, etc.&lt;/p&gt;
+
+&lt;blockquote&gt;Important: Please note that while my style of writing may seem as if this content is written for the public, in reality that is not the focus or purpose of this website. These posts are primarily designed to force accountability and attention to detail into my habitual skill set, as well as to serve as a personal documentation of my progress. None of this constitutes financial advice, nor am I a financial advisor. However, if you do find any value from my content, I am very happy to have done so.&lt;/blockquote&gt;
+
+&lt;h3&gt;Approach&lt;/h3&gt;
+&lt;p&gt;The concept of approach is all about how I aim to look at and digest all of the information given to me by the market. Think of it as an order of importance within my trading system, my personal philosophy on trading, or my feelings and/or biases towards the market. While this may be unintuitive, one of the most important things I aim to strive for as a discretionary trader is the minimization of personal discretion. However, I am also attempting to maintain sole control over the decisions that I make in the market rather than following the signals of a fully autonomous system/program (read: “bot”). Ultimately, I would like to develop a discretionary style of trading that allows for on-the-fly decision making but also enough structure and criteria requirements that it eliminates potentially harmful psychological biases and human error.&lt;/p&gt;
+
+&lt;p&gt;The first step within this system is nothing new or special. In fact, basically every trader I know does this, regardless of profitability. I take a top-down approach to the market, and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m to further refine these key areas. Generally, I’ll stay on these lower time frames (1H/4H) and look for candle close confirmation for entries. Only after taking a look at the overall market picture do we begin to look at additional criteria.&lt;/p&gt;
+
+&lt;h3&gt;Criteria&lt;/h3&gt;
+&lt;p&gt;While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below. These techniques and indicators are by no means comprehensive nor representative of all possible techniques, but are simply just the ones that I am familiar with using. These topics will also be covered in detail in future posts from this series. In no particular order:&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;&lt;b&gt;1. Order Flow&lt;/b&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+    &lt;ul class=&quot;alt&quot;&gt;
+      &lt;li&gt;&lt;b&gt;Delta&lt;/b&gt; - we want to see delta confirm the trend. Is there heavy positive or negative delta? How is price responding to the actions of buyers/sellers?&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Imbalances&lt;/b&gt; - are there any buying or selling imbalances in the footprint chart? How are buyers/sellers responding to movements in price? &lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Cumulative Volume Delta&lt;/b&gt; - how is price responding to the changes in delta over time? Are there any divergences between delta and price? &lt;/li&gt;
+    &lt;/ul&gt;&lt;/dd&gt;
+  &lt;dt&gt;&lt;b&gt;2. Market Profile&lt;/b&gt;&lt;/dt&gt;
+    &lt;dd&gt;
+      &lt;ul class=&quot;alt&quot;&gt;
+        &lt;li&gt;&lt;b&gt;Value Area&lt;/b&gt; - what are the levels for the value area high and value area low? Great for ranging environments.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Point of Control&lt;/b&gt; - where has the most volume taken place? Great for finding exits for positions and potential support or resistance levels.&lt;/li&gt;
+      &lt;/ul&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;&lt;b&gt;3. Technical Analysis&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Support/Resistance&lt;/b&gt; - at what prices are more other-time-frame market participants likely to enter? This is the foundation for the rest of the criteria, and we will attempt to enter as close as possible to these levels as often as possible. &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Trendlines/Channels&lt;/b&gt; - price tends to respect these trendlines, whether through a self-fulfilling prophecy or not. These act as good points of interest when price breaks one of these.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;&lt;b&gt;4. Indicators/Oscillators&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Volume and On-Balance Volume&lt;/b&gt; - we look at volume to confirm potential breakouts and trends. Does price follow volume transacted? We want to make sure that there are no clear divergences in price movement and volume.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Average True Range&lt;/b&gt; - helps us in certain situations to position size correctly and to prevent from being stopped out.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Relative Strength Index&lt;/b&gt; - great for ranging markets, and particularly useful on the higher-time frames. We primarily look for divergences in the RSI.&lt;/li&gt;
+    &lt;blockquote&gt;Moving averages and MACD (and to an extent bollinger bands) not mentioned because while they are useful, I am staying away from introducing too many variables/criteria into my system. The ones I currently have are plenty. However, moving averages and the MACD are great for trending environments, and I occasionally do use them.&lt;/blockquote&gt;
+  &lt;/ul&gt;&lt;/dd&gt;
+
+  &lt;dt&gt;&lt;b&gt;5. Miscellaneous&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;
+  &lt;ul class=&quot;alt&quot;&gt;
+    &lt;li&gt;&lt;b&gt;Open Interest&lt;/b&gt; - we can use open interest to gauge the exposure level of the market. We want to see open interest follow price (depending on bias). High open interest opens up the possibility of huge squeezes.&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Funding&lt;/b&gt; - we can use funding to see where the majority of traders are positioned. High positive or negative funding could mean a potential squeeze.&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/dd&gt;
+&lt;dl&gt;
+
+&lt;h3&gt;Setups&lt;/h3&gt;
+Additionally, I have a list of setups that I would like to take (and are continually collecting data for optimization purposes).  These are (in no particular order):
+
+
+&lt;dl&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;1. Support/Resistance Retests&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to buy the retests of support and resistance levels, either after a break on high volume, or after a clear rejection and retest failure. Can be both a high and low time-frame play.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;2. Range Reversion&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to buy and sell the value area low or value area high of a range, anticipating that it will return to at least the point of control. Often a lower time-frame setup.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;3. Break from Balance&lt;/dt&gt;&lt;/b&gt;
+    &lt;dd&gt;Alternatively, we want to buy the retest of the value area high or value area low if we get confirmation of a break from balance, depending on additional data like inside days and other criteria.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;4. Trapped Traders&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Using footprint charts, we want to spot times where traders become trapped and are immediately underwater. Often, a small push to the opposite direction pressures these traders to close their positions (read: squeeze). &lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;5. Absorption&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;We want to find situations where there is a lot of aggressive buying or seller, but price is not moving to match it. This often shows up in the form of a CVD divergence.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;6. Naked Point of Control&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Using market profile, we can identify naked points of control and preemptively place orders there in an attempt to catch price quickly hitting it before a bounce. Very low time-frame trade.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;7. Technical&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Completely technical based (read: drawing lines), we can take advantage of the self-fulfilling prophecy of technical analysis. I've found that trendlines work the best for this, as other patterns are not very reliable.&lt;/dd&gt;&lt;br /&gt;
+&lt;b&gt;&lt;dt&gt;8. Spot Play&lt;/dt&gt;&lt;/b&gt;
+  &lt;dd&gt;Not really a setup, but in certain market conditions it may be more favorable to be flat, while other market conditions favour being exposed to crypto.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3&gt;Additional Info&lt;/h3&gt;
+I will be covering these setups more in depth in future posts, but this was a brief overview of how I aim to do my market analysis. To track my progress, I will be using EdgeWonk 2.0 and doing monthly performance reviews as well as posting setups (see &quot;Trader Progress&quot; for more information on my position sizing, trading parameters, etc.). For exchanges and peripheral software, I primarily trade on ByBit, Phemex, and FTX, and use TradingView and EXO Charts for market analysis (see: &quot;Miscellaneous&quot; for more information on the platforms I use).
+
+&lt;p&gt;&lt;br /&gt;
+If you made it this far, thanks very much for reading. If you enjoyed this content, please feel free to share it with your friends or on social media. This blog is primarily a journal of sorts for personal use, but if it provides any value to you I'm very happy. Thanks!
+&lt;/p&gt;&lt;/dl&gt;&lt;/dl&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/market-analysis/2020/04/02/my-market-criteria-introduction/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/market-analysis/2020/04/02/my-market-criteria-introduction/</guid>
+      </item>
+    
+      <item>
+        <title>March Performance Review (2020)</title>
+        <description>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;This is my trader progress review for March 2020. For those who are new, you can find an introduction to what I’m doing at the following link: &lt;a href=&quot;/blog/trader-progress/2020/03/14/becoming-a-trader-btc-challenge/&quot;&gt;Becoming A Trader: BTC Challenge&lt;/a&gt;. It goes over the parameters that I’ve set for this challenge, as well as some other information. So, let’s see how I did for March!&lt;/p&gt;
+
+&lt;p&gt;We started off in the middle of March (right after the giant crash) with a total balance of ~$530 USD. We ended March with a balance of ~695 USD, representing a 31% increase in portfolio. However, our trading actually only represents ~7-8% of this increase, with most of the gains coming from the rise in the price of Bitcoin. At the beginning of this challenge, we held everything in BTC (starting with 0.1 BTC). By the end of March, we had moved all of the BTC into fiat as financial market turmoil left me unsure about whether or not I wanted to be exposed to Bitcoin. For more detail on the reasoning behind this, please check out the market analysis category of this blog.&lt;/p&gt;
+
+&lt;h3&gt;Trade Data&lt;/h3&gt;
+&lt;p&gt;Now, let’s go over our overall trades for the month. For a more detailed look into specific trades, I occassionally post my setups/reasoning/outcomes in the trader progress category as well. Here is a picture of my Edgewonk trading journal:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/trader-progress/march-edgewonk-journal.png&quot; alt=&quot;Edgewonk March Journal&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here is the cumulative data, automatically calculated by Edgewonk:&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;Data&lt;/th&gt;
+        &lt;th&gt;Result&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Trades Taken&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Winners&lt;/td&gt;
+          &lt;td&gt;11&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Losers&lt;/td&gt;
+          &lt;td&gt;5&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Winrate&lt;/td&gt;
+          &lt;td&gt;68.75%&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;% Gain&lt;/td&gt;
+          &lt;td&gt;7.51%&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Total Gain&lt;/td&gt;
+          &lt;td&gt;0.00775429 (in BTC)&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Average Risk:Reward&lt;/td&gt;
+          &lt;td&gt;2.79&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Average R-Multiple&lt;/td&gt;
+          &lt;td&gt;0.42&lt;/td&gt;
+
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Expectancy&lt;/td&gt;
+          &lt;td&gt;0.00048464&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+
+    &lt;/table&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;Looking back on March, you can see that all of the trades took place within around a week of each other. This is due to the fact that I began working on this website near the end of March, temporarily putting my trading on hold. Unfortunately, I believe that 16 trades is way too many trades to be taking, especially for such a small return (you can see from the data that my expectancy is abysmal).&lt;/p&gt;
+
+&lt;p&gt;From the data, it’s also clear that one of my major weaknesses is closing positions too early. From my understanding, this is a combination of a few factors. Primarily, I lack confidence in my trading ability, and need to focus on being less risk averse. One of the side effects of publicly posting trades and setups on social media is that it’s a completely different psychological game because there is an added element of publicity.&lt;/p&gt;
+
+&lt;p&gt;Finally, I need to continually improve my psychological state and understand the biases that come with closing positions too early (the book “Trade Your Way To Financial Freedom” by Van Tharp touches on this subject extensively and has helped me greatly in forming the way I view my trading).&lt;/p&gt;
+
+&lt;h3&gt;Moving Forward&lt;/h3&gt;
+&lt;p&gt;For April, I would like to minimize the amount of trades that I take. Ideally, I would look for 1-3 good trades per week. And, if no trades present themselves, I need to be okay with not taking a trade at all. Additionally, I will be focusing on improving the quality of my trade journaling as well as trade review. Thanks!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/trader-progress/2020/04/01/march-performance-review/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/trader-progress/2020/04/01/march-performance-review/</guid>
+      </item>
+    
+      <item>
+        <title>Becoming A Trader: The BTC Challenge</title>
+        <description>&lt;h3&gt;My Trading Journey&lt;/h3&gt;
+&lt;p&gt;One of the biggest problems I faced in the first few years of discovering trading was over-trading. Often I would find myself chasing trades and generally just being undisciplined and way too discretionary. I always felt like I was being pulled in all directions by the market at will, making some of the most terrible decisions I could make on a whim, and not in tune at all with neither myself nor the market. So, in order to combat this, I decided to create a little challenge for myself. This post details that challenge, the parameters I’ve set for myself, as well as the steps that I will be taking to ensure the maximum chance of success.&lt;/p&gt;
+
+&lt;p&gt;Since I am a part-time trader and have a stable side-job (and low living costs), I decided to put the vast majority of my money into alternative investments and/or income sources. Instead, I left myself with a small account (~$530 USD at the time of writing), to attempt to grow to something livable in 3-5 years. The reasoning was that if I could prove an edge over a long period of time, then I have a shot at turning full-time. If not, then I can confidently say that trading isn’t for me and put it down for good.&lt;/p&gt;
+
+&lt;h3&gt;Setting Some Goals&lt;/h3&gt;
+&lt;p&gt;So, let’s set some goals first. In order to not overwhelm myself, I’ve chosen one major goal per time-frame. The short term and medium term goals will eventually be done, where I will then create new goals of the same time frame (all while working towards the ultimate goal). However in reality, I actually just started with the single long-term goal and reverse engineered all the steps I think I need to take in order to achieve that goal.&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;&lt;b&gt;Long Term Goal (3 years+)&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;Develop a high expectancy and discretionary trading system based on the principles of order flow, market profile, and technical analysis. I view this not as an endgame, but a continual never-ending process of iterative refinement and tuning. Strategies or techniques that work now may not work down the line, but I think a 3 to 5 year time-frame to look for actionable results is appropriate.&lt;/dd&gt;&lt;br /&gt;
+
+&lt;dt&gt;&lt;b&gt;Medium Term Goal (6 months - 1 year)&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;Ingrain a set of habits that I believe will give me the highest probability of success (meditation, journaling, reading). I really believe that trading is more than &quot;full-time&quot;. It requires you to be on the top of your game in all aspects of your life. Luckily, I have a very &quot;all-in&quot; personality, which is great for this kind of stuff. Unfortunately, this all-in personality does get me in trouble sometimes with the market, so learning to operate situationally is a major target for me moving forward.&lt;/dd&gt;&lt;br /&gt;
+
+&lt;dt&gt;&lt;b&gt;Short Term Goal (1 month - 6 months)&lt;/b&gt;&lt;/dt&gt;
+  &lt;dd&gt;Set up all of the necessary peripheral support needed to ensure the greatest chance of a non-quit outcome (this blog, personal schedule, miscellaneous optimizations). I want to give myself the greatest chance of success, which means optimizing all possible aspects of my life, and using my understanding of my own psychology to get the most out of my time (similar to how a coach will know how to get the most out of their athlete).&lt;/dd&gt;
+
+&lt;/dl&gt;
+&lt;dl&gt;
+&lt;h3&gt;My Pillars for Success&lt;/h3&gt;
+With these goals, I decided to create a list of all the things I may need to implement into my daily life in order to succeed. At the end, I found that all of the things I needed to do fit into one of three categories. These are the three &quot;pillars&quot; that I believe I need to focus on.
+
+
+&lt;dt&gt;&lt;br /&gt;&lt;b&gt;1. Knowledge&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;I realized that my knowledge of trading was very shallow. Up until this point, I had basically only done some very rudimentary technical analysis and price action, with zero regard for position sizing or risk management (or any of the other more in-depth topics like order flow, market profile, etc.). So, I decided to dive head first into learning. This meant reading books, watching online videos, joining an educational group (more on this later). If I wanted to succeed, I would need to learn as much as I could.&lt;/dd&gt;&lt;br /&gt;
+
+&lt;dt&gt;&lt;b&gt;2. Mentality&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Fortunately (or unfortunately, depending on how you look at it), I also realized early on that a trader's mentality is incredibly, if not the most, important aspect of trading. Unfortunately, this also meant I had to accept the fact that my current mental state is ridden with psychological biases and lacked the discipline required to properly succeed. So, in order to address some of these issues, I've decided to incorporate various activities that I believe may be a value-add in my life. Namely, I've decided to implement daily meditation into my routine.&lt;/dd&gt;&lt;br /&gt;
+
+&lt;dt&gt;&lt;b&gt;3. Efficiency&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Due to the task at hand being incredibly difficult, it was important for me to cut out all unnecessary distractions and optimize my lifestyle to the best of my ability. More specifically, this meant re-arranging my schedule to fit my personality. For example, I have the exact same schedule 7 days of the week now, I eat the same thing every day at the exact same time, and I follow (or hope to follow) an incredibly structured and efficient timetable. I've also completely reduced all noise from trading-related social media as I found that that greatly negatively influenced my own trading decisions.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h3&gt;Moving Forward&lt;/h3&gt;
+&lt;p&gt;While I am optimistic about my journey, nothing is set in stone. It’s good to be able to plan ahead and detail all of the possible steps you may take, but you also need to be able to adapt to changing conditions as to not get swept away by the wind. Slowly, I have begun to implement the above ideas into my life, being careful to integrate new activities or hobbies in at a gradual pace so as to not overwhelm my own gas-tank of self-control and discipline. I hope this has been informative or insightful in some way, and thank you very much for reading all the way until here. Please join me on this journey of becoming a full-time trader. Thank you!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/trader-progress/2020/03/14/becoming-a-trader-btc-challenge/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/trader-progress/2020/03/14/becoming-a-trader-btc-challenge/</guid>
       </item>
     
   </channel>
