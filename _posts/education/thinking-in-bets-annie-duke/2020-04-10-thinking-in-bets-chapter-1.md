@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking In Bets (Annie Duke) - Chapter 1"
 date: 2020-04-10
-image: /assets/images/education/thinking-in-bets.jpeg
+webfeedsFeaturedVisual: /assets/images/education/thinking-in-bets.jpeg
 alt: Annie Duke - Thinking In Bets (Aidan Hornsby - Medium)
 categories: [Education]
 tags: [Thinking In Bets]
