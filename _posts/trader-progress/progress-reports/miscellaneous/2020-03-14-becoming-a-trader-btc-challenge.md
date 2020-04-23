@@ -11,7 +11,7 @@ description: In this post, I lay out the exact goal-setting and preparation that
 
 <h3>My Trading Journey</h3>
 One of the biggest problems I faced in the first few years of discovering trading was over-trading. Often I would find myself chasing trades and generally just being undisciplined and way too discretionary. I always felt like I was being pulled in all directions by the market at will, making some of the most terrible decisions I could make on a whim, and not in tune at all with neither myself nor the market. So, in order to combat this, I decided to create a little challenge for myself. This post details that challenge, the parameters I've set for myself, as well as the steps that I will be taking to ensure the maximum chance of success.
-
+<img src="/assets/images/trader-progress/march-edgewonk-journal.png" alt="Edgewonk March Journal" style="max-width:100%;" />
 Since I am a part-time trader and have a stable side-job (and low living costs), I decided to put the vast majority of my money into alternative investments and/or income sources. Instead, I left myself with a small account (~$530 USD at the time of writing), to attempt to grow to something livable in 3-5 years. The reasoning was that if I could prove an edge over a long period of time, then I have a shot at turning full-time. If not, then I can confidently say that trading isn't for me and put it down for good.
 
 <h3>Setting Some Goals</h3>
