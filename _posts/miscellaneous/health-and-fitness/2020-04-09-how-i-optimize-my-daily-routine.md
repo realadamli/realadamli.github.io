@@ -2,7 +2,7 @@
 title: How I Optimize My Daily Routine
 layout: post
 date: '2020-04-09'
-webfeedsFeaturedVisual: "/assets/images/miscellaneous/optimizing-daily-routine.jpg"
+thumbnail: "/assets/images/miscellaneous/optimizing-daily-routine.jpg"
 alt: Dolomites Mountains - 4K Wallpaper from hdwallpapers.in
 categories:
 - Miscellaneous

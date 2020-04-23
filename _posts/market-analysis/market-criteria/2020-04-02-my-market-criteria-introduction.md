@@ -2,7 +2,7 @@
 layout: post
 title: "My Market Criteria: Introduction"
 date: 2020-04-02
-webfeedsFeaturedVisual: /assets/images/market-analysis/04-05-20-XBTUSD.jpg
+thumbnail: /assets/images/market-analysis/04-05-20-XBTUSD.jpg
 alt: Monthly Log Chart for Bitcoin (Bitcoin Liquid Index) - TradingView
 categories: [Market-Analysis]
 tags: [Market Criteria]

@@ -2,7 +2,7 @@
 layout: post
 title: "March Performance Review (2020)"
 date: 2020-04-01
-webfeedsFeaturedVisual: /assets/images/trader-progress/march-performance-review.jpeg
+thumbnail: /assets/images/trader-progress/march-performance-review.jpeg
 alt: Monthly Performance Review - Tracked Using Edgewonk 2.0
 categories: [Trader-Progress]
 tags: [Progress Reports]
