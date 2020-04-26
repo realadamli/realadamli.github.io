@@ -13,17 +13,19 @@ description: Today's trading week ended net positive, but consisted of all of th
 
 My main focus of this week was to test out a high volume node scalp strategy. Overall, the testing went fantastic and I'm slowly dialing in the variables I need to trade this on a regular basis. Trading on the other hand, didn't go as well. While I am net positive for the week, I had an abysmal win-rate. I basically did everything you shouldn't do this week, like revenge trade, over-leverage, no system, etc.
 
+Edit: Ended up taking a successful flip of an absorption level for a clean 4R! Amazing way to end what was a terrible week. This one was a real analyzed setup. Will go over it in a post next week.
+
 **Data**
 
-Trades Taken: 12
+Trades Taken: 13
 
-Winners: 3
+Winners: 4
 
 Losers: 9
 
-Winrate: 25%
+Winrate: 30.77%
 
-PnL: 0.51%
+PnL: 4.48%
 
 **Review**
 
