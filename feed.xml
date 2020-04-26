@@ -9,6 +9,55 @@
     <atom:link href="https://koan-trading.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Weekly Debrief (April 26th, 2020)</title>
+        <description>&lt;p&gt;&lt;img src="/assets/images/trader-progress/march-performance-review.jpeg" alt="Weekly Debrief - Net Positive but Terrible Risk Management" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My main focus of this week was to test out a high volume node scalp strategy. Overall, the testing went fantastic and I’m slowly dialing in the variables I need to trade this on a regular basis. Trading on the other hand, didn’t go as well. While I am net positive for the week, I had an abysmal win-rate. I basically did everything you shouldn’t do this week, like revenge trade, over-leverage, no system, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trades Taken: 12&lt;/p&gt;
+
+&lt;p&gt;Winners: 3&lt;/p&gt;
+
+&lt;p&gt;Losers: 9&lt;/p&gt;
+
+&lt;p&gt;Winrate: 25%&lt;/p&gt;
+
+&lt;p&gt;PnL: 0.51%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The main reason for the poor performance is mainly psychological and lack of patience. I struggled very hard this week with simply waiting for opportunities. Instead, I entered the market at the completely wrong times using position sizes that are way too large. A big portion of the losses were due to me learning and testing the high volume node strategy, but losses should not cause me to go on tilt.&lt;/p&gt;
+
+&lt;p&gt;However, my market analysis has only continued to improve. I am able to effectively identify when my setups are occurring and their optimal entry conditions. This gives me great optimism because I am lacking greatly in confidence of my own skills. This lack of confidence is one of the main reasons that I am unable to execute my analysis and often go on psychological tilt. I think time will be the key here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week I continued to learn about order flow, particularly the footprint tool. I learned multiple different setups as well as concepts that I am trying to apply to my trading. I’ve also picked up the discounted course from MacroHedged (Options), and so far it’s going very well. While I am not an options trader, I think that learning about it can only aid me in my journey.&lt;/p&gt;
+
+&lt;p&gt;For books, I continued reading Thinking In Bets, Markets In Profile, Mind Over Markets, and Principles. But, I also picked up Anna Couling’s Complete Guide To Volume Profile. To be honest, I haven’t read as much as I should have this week, so I need to improve on that next week.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This week, I would like to continue to test and develop this high volume node strategy as I work my way through the MacroHedged options course. I also want to continue reading books primarily on volume profile, market profile, order flow, and general psychology.&lt;/p&gt;
+
+&lt;p&gt;Next week’s goals include:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MacroHedged Options Course&lt;/li&gt;
+  &lt;li&gt;More exercise&lt;/li&gt;
+  &lt;li&gt;Trust development for my own trading + psychological barriers&lt;/li&gt;
+  &lt;li&gt;More reading&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+
+        <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+        <link>https://koan-trading.com//blog/trader-progress/2020/04/26/weekly-debrief/</link>
+        <guid isPermaLink="true">https://koan-trading.com//blog/trader-progress/2020/04/26/weekly-debrief/</guid>
+      </item>
+    
+      <item>
         <title>Trade Review - XBTUSD (April 25th, 2020)</title>
         <description>&lt;p&gt;&lt;img src="/assets/images/Screen Shot 4-24-2020 at 11.52 PM.png" alt="Trade Review (XBTUSD: Short) - Double Distribution" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
 
@@ -570,97 +619,6 @@ System 1:&lt;/b&gt;&lt;/dt&gt;&lt;dd&gt;Reflex, instinct, intuition, impulse, au
         <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
         <link>https://koan-trading.com//blog/miscellaneous/2020/04/09/how-i-optimize-my-daily-routine/</link>
         <guid isPermaLink="true">https://koan-trading.com//blog/miscellaneous/2020/04/09/how-i-optimize-my-daily-routine/</guid>
-      </item>
-    
-      <item>
-        <title>My Market Criteria: Introduction</title>
-        <description>&lt;p&gt;&lt;img src="/assets/images/market-analysis/04-05-20-XBTUSD.jpg" alt="Monthly Log Chart for Bitcoin (Bitcoin Liquid Index) - TradingView" class="webfeedsFeaturedVisual"&gt;&lt;/p&gt;&lt;h3&gt;Overview&lt;/h3&gt;
-&lt;p&gt;Welcome to the market criteria series! This series consists of my personal criteria that I look at for markets (primarily crypto) on both higher and lower time-frames. Today, we will quickly introduce and layout a simple framework that I use when making decisions to enter or exit the market. This framework consists of three main variables: approach, criteria, setups, and is the first iteration of my trading system and the first step in my trading journey. Let’s briefly talk about each one, as well as some additional information such as peripheral software, exchange platforms, progress reports, etc.&lt;/p&gt;
-
-&lt;blockquote&gt;Important: Please note that while my style of writing may seem as if this content is written for the public, in reality that is not the focus or purpose of this website. These posts are primarily designed to force accountability and attention to detail into my habitual skill set, as well as to serve as a personal documentation of my progress. None of this constitutes financial advice, nor am I a financial advisor. However, if you do find any value from my content, I am very happy to have done so.&lt;/blockquote&gt;
-
-&lt;h3&gt;Approach&lt;/h3&gt;
-&lt;p&gt;The concept of approach is all about how I aim to look at and digest all of the information given to me by the market. Think of it as an order of importance within my trading system, my personal philosophy on trading, or my feelings and/or biases towards the market. While this may be unintuitive, one of the most important things I aim to strive for as a discretionary trader is the minimization of personal discretion. However, I am also attempting to maintain sole control over the decisions that I make in the market rather than following the signals of a fully autonomous system/program (read: “bot”). Ultimately, I would like to develop a discretionary style of trading that allows for on-the-fly decision making but also enough structure and criteria requirements that it eliminates potentially harmful psychological biases and human error.&lt;/p&gt;
-
-&lt;p&gt;The first step within this system is nothing new or special. In fact, basically every trader I know does this, regardless of profitability. I take a top-down approach to the market, and look at the higher time-frames first (monthly, weekly, daily) to market out key price areas. Then, I move onto lower time frames such as the 4H or 1H, and occasionally the 15m to further refine these key areas. Generally, I’ll stay on these lower time frames (1H/4H) and look for candle close confirmation for entries. Only after taking a look at the overall market picture do we begin to look at additional criteria.&lt;/p&gt;
-
-&lt;h3&gt;Criteria&lt;/h3&gt;
-&lt;p&gt;While there are a seemingly endless number of techniques, indicators, and oscillators, I will be focusing on a few particular concepts/tools that I will go into brief detail below. These techniques and indicators are by no means comprehensive nor representative of all possible techniques, but are simply just the ones that I am familiar with using. These topics will also be covered in detail in future posts from this series. In no particular order:&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;&lt;b&gt;1. Order Flow&lt;/b&gt;&lt;/dt&gt;
-    &lt;dd&gt;
-    &lt;ul class=&quot;alt&quot;&gt;
-      &lt;li&gt;&lt;b&gt;Delta&lt;/b&gt; - we want to see delta confirm the trend. Is there heavy positive or negative delta? How is price responding to the actions of buyers/sellers?&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Imbalances&lt;/b&gt; - are there any buying or selling imbalances in the footprint chart? How are buyers/sellers responding to movements in price? &lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Cumulative Volume Delta&lt;/b&gt; - how is price responding to the changes in delta over time? Are there any divergences between delta and price? &lt;/li&gt;
-    &lt;/ul&gt;&lt;/dd&gt;
-  &lt;dt&gt;&lt;b&gt;2. Market Profile&lt;/b&gt;&lt;/dt&gt;
-    &lt;dd&gt;
-      &lt;ul class=&quot;alt&quot;&gt;
-        &lt;li&gt;&lt;b&gt;Value Area&lt;/b&gt; - what are the levels for the value area high and value area low? Great for ranging environments.&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Point of Control&lt;/b&gt; - where has the most volume taken place? Great for finding exits for positions and potential support or resistance levels.&lt;/li&gt;
-      &lt;/ul&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;b&gt;3. Technical Analysis&lt;/b&gt;&lt;/dt&gt;
-  &lt;dd&gt;
-  &lt;ul class=&quot;alt&quot;&gt;
-    &lt;li&gt;&lt;b&gt;Support/Resistance&lt;/b&gt; - at what prices are more other-time-frame market participants likely to enter? This is the foundation for the rest of the criteria, and we will attempt to enter as close as possible to these levels as often as possible. &lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Trendlines/Channels&lt;/b&gt; - price tends to respect these trendlines, whether through a self-fulfilling prophecy or not. These act as good points of interest when price breaks one of these.&lt;/li&gt;
-  &lt;/ul&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;b&gt;4. Indicators/Oscillators&lt;/b&gt;&lt;/dt&gt;
-  &lt;dd&gt;
-  &lt;ul class=&quot;alt&quot;&gt;
-    &lt;li&gt;&lt;b&gt;Volume and On-Balance Volume&lt;/b&gt; - we look at volume to confirm potential breakouts and trends. Does price follow volume transacted? We want to make sure that there are no clear divergences in price movement and volume.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Average True Range&lt;/b&gt; - helps us in certain situations to position size correctly and to prevent from being stopped out.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Relative Strength Index&lt;/b&gt; - great for ranging markets, and particularly useful on the higher-time frames. We primarily look for divergences in the RSI.&lt;/li&gt;
-    &lt;blockquote&gt;Moving averages and MACD (and to an extent bollinger bands) not mentioned because while they are useful, I am staying away from introducing too many variables/criteria into my system. The ones I currently have are plenty. However, moving averages and the MACD are great for trending environments, and I occasionally do use them.&lt;/blockquote&gt;
-  &lt;/ul&gt;&lt;/dd&gt;
-
-  &lt;dt&gt;&lt;b&gt;5. Miscellaneous&lt;/b&gt;&lt;/dt&gt;
-  &lt;dd&gt;
-  &lt;ul class=&quot;alt&quot;&gt;
-    &lt;li&gt;&lt;b&gt;Open Interest&lt;/b&gt; - we can use open interest to gauge the exposure level of the market. We want to see open interest follow price (depending on bias). High open interest opens up the possibility of huge squeezes.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Funding&lt;/b&gt; - we can use funding to see where the majority of traders are positioned. High positive or negative funding could mean a potential squeeze.&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/dd&gt;
-&lt;dl&gt;
-
-&lt;h3&gt;Setups&lt;/h3&gt;
-Additionally, I have a list of setups that I would like to take (and are continually collecting data for optimization purposes).  These are (in no particular order):
-
-
-&lt;dl&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;1. Support/Resistance Retests&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;We want to buy the retests of support and resistance levels, either after a break on high volume, or after a clear rejection and retest failure. Can be both a high and low time-frame play.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;2. Range Reversion&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;We want to buy and sell the value area low or value area high of a range, anticipating that it will return to at least the point of control. Often a lower time-frame setup.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;3. Break from Balance&lt;/dt&gt;&lt;/b&gt;
-    &lt;dd&gt;Alternatively, we want to buy the retest of the value area high or value area low if we get confirmation of a break from balance, depending on additional data like inside days and other criteria.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;4. Trapped Traders&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;Using footprint charts, we want to spot times where traders become trapped and are immediately underwater. Often, a small push to the opposite direction pressures these traders to close their positions (read: squeeze). &lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;5. Absorption&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;We want to find situations where there is a lot of aggressive buying or seller, but price is not moving to match it. This often shows up in the form of a CVD divergence.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;6. Naked Point of Control&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;Using market profile, we can identify naked points of control and preemptively place orders there in an attempt to catch price quickly hitting it before a bounce. Very low time-frame trade.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;7. Technical&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;Completely technical based (read: drawing lines), we can take advantage of the self-fulfilling prophecy of technical analysis. I've found that trendlines work the best for this, as other patterns are not very reliable.&lt;/dd&gt;&lt;br /&gt;
-&lt;b&gt;&lt;dt&gt;8. Spot Play&lt;/dt&gt;&lt;/b&gt;
-  &lt;dd&gt;Not really a setup, but in certain market conditions it may be more favorable to be flat, while other market conditions favour being exposed to crypto.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h3&gt;Additional Info&lt;/h3&gt;
-I will be covering these setups more in depth in future posts, but this was a brief overview of how I aim to do my market analysis. To track my progress, I will be using EdgeWonk 2.0 and doing monthly performance reviews as well as posting setups (see &quot;Trader Progress&quot; for more information on my position sizing, trading parameters, etc.). For exchanges and peripheral software, I primarily trade on ByBit, Phemex, and FTX, and use TradingView and EXO Charts for market analysis (see: &quot;Miscellaneous&quot; for more information on the platforms I use).
-
-&lt;p&gt;&lt;br /&gt;
-If you made it this far, thanks very much for reading. If you enjoyed this content, please feel free to share it with your friends or on social media. This blog is primarily a journal of sorts for personal use, but if it provides any value to you I'm very happy. Thanks!
-&lt;/p&gt;&lt;/dl&gt;&lt;/dl&gt;
-</description>
-
-        <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
-        <link>https://koan-trading.com//blog/market-analysis/2020/04/02/my-market-criteria-introduction/</link>
-        <guid isPermaLink="true">https://koan-trading.com//blog/market-analysis/2020/04/02/my-market-criteria-introduction/</guid>
       </item>
     
   </channel>
