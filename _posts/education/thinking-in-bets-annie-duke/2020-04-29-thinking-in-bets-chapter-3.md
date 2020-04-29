@@ -12,7 +12,7 @@ description: Self-written notes of Chapter 3 of Annie Duke's "Thinking In Bets",
 
 Chapter 3 of Thinking In Bets is all about the way we look at outcomes and the biases that come with them. To improve, we need to be able to form a well-defined learning/feedback loop, be able to accurately analyze our outcomes through the spectrum of luck vs. skill (fielding outcomes), and understand our biases when it comes to our outcomes vs. the outcomes of our peers. Only by understanding these will we be able to effectively re-shape our habits of learning.
 
-<blockquote>Experience can be an effective teacher. But, clearly, only some students listen to their teachers. The people who learn from experience improve, advanced, and (with a little bit of luck) become experts and leaders in heir fields.</blockquote>
+<blockquote>Experience can be an effective teacher. But, clearly, only some students listen to their teachers. The people who learn from experience improve, advanced, and (with a little bit of luck) become experts and leaders in their fields.</blockquote>
 
 **Outcomes are feedback**
 
