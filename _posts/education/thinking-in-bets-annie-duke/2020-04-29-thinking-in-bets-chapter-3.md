@@ -8,8 +8,6 @@ categories: [Education]
 tags: [Thinking In Bets]
 description: Self-written notes of Chapter 3 of Annie Duke's "Thinking In Bets", as well as some included ideas on how to apply the content to trading performance.
 ---
-<h3>Overview</h3>
-
 **Chapter 3 - Bet to Learn: Fielding the Unfolding Future**
 
 Chapter 3 of Thinking In Bets is all about the way we look at outcomes and the biases that come with them. To improve, we need to be able to form a well-defined learning/feedback loop, be able to accurately analyze our outcomes through the spectrum of luck vs. skill (fielding outcomes), and understand our biases when it comes to our outcomes vs. the outcomes of our peers. Only by understanding these will we be able to effectively re-shape our habits of learning.
@@ -17,6 +15,7 @@ Chapter 3 of Thinking In Bets is all about the way we look at outcomes and the b
 <blockquote>Experience can be an effective teacher. But, clearly, only some students listen to their teachers. The people who learn from experience improve, advanced, and (with a little bit of luck) become experts and leaders in heir fields.</blockquote>
 
 **Outcomes are feedback**
+
 Improvement goes beyond the accumulation of experience. Instead, it is what we do with our experiences that ultimately determines our progress. We need to be able to identify when the outcomes of our decisions contain useful lessons.
 
 <blockquote>We can't just "absorb" experiences and expect to learn. As novelist and philosopher Aldous Huxley recognized, "Experience is not what happens to a man; it is what a man does with what happens to him."</blockquote>
