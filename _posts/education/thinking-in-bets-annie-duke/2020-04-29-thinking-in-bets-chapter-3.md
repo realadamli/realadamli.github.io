@@ -23,11 +23,13 @@ Improvement goes beyond the accumulation of experience. Instead, it is what we d
 Remember that in Chapter 2 we defined all our decisions as a type of bet. A bet on what we believe will create the most value and favorable future for us (though our bets don't necessarily always work out). We can represent this type of bet like so:
 
 Betting on a Future:
+
 Belief --> Bet --> (Set of Outcomes)
 
 What we want to do is to create a learning loop, whereby we are able to determine if our outcomes were largely determined by luck or a combination of our decisions. By doing this, we are then able to re-input this data into our belief formation and create a learning loop.
 
 Learning Loop 1:
+
 Belief --> Bet --> Outcome --> Bet 2 --> Belief --> ...
 
 <blockquote>Ideally, our beliefs and our bets improve with time as we learn from experience.</blockquote>
