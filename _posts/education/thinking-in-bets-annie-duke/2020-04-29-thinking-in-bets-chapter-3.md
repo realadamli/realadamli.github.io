@@ -42,9 +42,7 @@ Outcomes are influenced by two things, the influence of skill and the influence 
 
 Learning Loop 2:
 
-Belief --> Bet --> Outcome --> Luck
-
-                           --> Skill --> Belief --> ...
+Belief --> Bet --> Outcome --> Luck OR Skill? --> Belief --> ...
 
 <blockquote>It is hard to get this right. Absent omniscience, it is difficult to tell why anything happened the way it did. The bet on whether to field outcomes into the luck or skill bucket is difficult to execute because of ambiguity.</blockquote>
 
