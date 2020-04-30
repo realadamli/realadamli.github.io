@@ -1,12 +1,15 @@
 ---
+title: April Performance Review (2020)
 layout: post
-title: "April Performance Review (2020)"
-date: 2020-04-30
-thumbnail: /assets/images/trader-progress/march-performance-review.jpeg
+date: '2020-04-30'
+thumbnail: "/assets/images/trader-progress/march-performance-review.jpeg"
 alt: April Performance Review - Tracked Using Edgewonk 2.0
-categories: [Trader-Progress]
-tags: [Progress Reports]
-description: Performance review for April 2020. A month of successful experimentation, clear improvement, but poor execution.
+categories:
+- Trader-Progress
+tags:
+- Progress Reports
+description: Performance review for April 2020. A month of successful experimentation,
+  clear improvement, but poor execution.
 ---
 
 **Overview**
@@ -25,55 +28,32 @@ And here is the cumulative data, automatically calculated by Edgewonk (numbers a
 
 **Monthly**
 
-  <table>
-    <thead>
-      <tr>
-        <th>Data</th>
-        <th>Result</th>
-      </tr>
-    </thead>
-      <tbody>
-        <tr>
-          <td>Balance (Starting: 0.01)</td>
-          <td>0.0856</td>
 
-        </tr>
-        <tr>
-          <td>Trades Taken</td>
-          <td>21</td>
 
-        </tr>
-        <tr>
-          <td>Winners</td>
-          <td>8</td>
-        </tr>
-        <tr>
-          <td>Losers</td>
-          <td>13</td>
+| Data|  Result |
+| -------- | -------- |
+| Balance (Starting: 0.01)   | 0.0856     |
+|Trades Taken|21|
+|Winners|8|
+|Losers|13|
+|Winrate|38%|
+|Average Risk:Reward Ratio|5.16|
+|Average R-Multiple|0.51|
+|Expectancy|0.00020359|
 
-        </tr>
-        <tr>
-          <td>Winrate</td>
-          <td>38%</td>
 
-        </tr>
-        <tr>
-          <td>Average Risk:Reward Ratio</td>
-          <td>5.16/td>
+**Overall**
 
-        </tr>
-        <tr>
-          <td>Average R-Multiple</td>
-          <td>0.51</td>
+| Data|  Result |
+| -------- | -------- |
+|Trades Taken|33|
+|Winners|16|
+|Losers|17|
+|Winrate|48%|
+|Average Risk:Reward Ratio|4.3|
+|Average R-Multiple|0.43|
+|Expectancy|0.00031479|
 
-        </tr>
-        <tr>
-          <td>Expectancy</td>
-          <td>0.00020359</td>
-        </tr>
-      </tbody>
-
-    </table>
 
 **Review**
 
