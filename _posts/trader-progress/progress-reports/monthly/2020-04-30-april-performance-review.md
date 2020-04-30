@@ -75,53 +75,6 @@ And here is the cumulative data, automatically calculated by Edgewonk (numbers a
 
     </table>
 
-**Overall**
-
-<table>
-  <thead>
-    <tr>
-      <th>Data</th>
-      <th>Result</th>
-    </tr>
-  </thead>
-    <tbody>
-      <tr>
-        <td>Trades Taken</td>
-        <td>33</td>
-
-      </tr>
-      <tr>
-        <td>Winners</td>
-        <td>16</td>
-      </tr>
-      <tr>
-        <td>Losers</td>
-        <td>17</td>
-
-      </tr>
-      <tr>
-        <td>Winrate</td>
-        <td>48%</td>
-
-      </tr>
-      <tr>
-        <td>Average Risk:Reward Ratio</td>
-        <td>4.3/td>
-
-      </tr>
-      <tr>
-        <td>Average R-Multiple</td>
-        <td>0.43</td>
-
-      </tr>
-      <tr>
-        <td>Expectancy</td>
-        <td>0.00031479</td>
-      </tr>
-    </tbody>
-
-  </table>
-
 **Review**
 
 The majority of the first half of April was spent doing trading related peripheral activities like building this website (Jekyll + Github Pages is awesome!), and getting my routine in order (developing meditation habits, exercise, diet, etc.). My first trade I took this month was actually on April 18th.
