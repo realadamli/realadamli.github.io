@@ -22,7 +22,7 @@ April has been an interesting month so far. Overall, we didn't make much progres
 
 Here is my Edgewonk data for the month of April.
 
-<img src="/assets/images/trader-progress/april-edgewonk-journal.png" alt="Edgewonk April Journal" style="max-width:100%;" />
+<a href="/assets/images/trader-progress/april-edgewonk-journal.png"><img src="/assets/images/trader-progress/april-edgewonk-journal.png" alt="Edgewonk April Journal" style="max-width:100%;" /></a>
 
 And here is the cumulative data, automatically calculated by Edgewonk (numbers are in BTC):
 

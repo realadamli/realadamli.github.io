@@ -17,7 +17,7 @@ We started off in the middle of March (right after the giant crash) with a total
 <h3>Trade Data</h3>
 Now, let's go over our overall trades for the month. For a more detailed look into specific trades, I occassionally post my setups/reasoning/outcomes in the trader progress category as well. Here is a picture of my Edgewonk trading journal:
 
-<img src="/assets/images/trader-progress/march-edgewonk-journal.png" alt="Edgewonk March Journal" style="max-width:100%;" />
+<a href="/assets/images/trader-progress/march-edgewonk-journal.png"><img src="/assets/images/trader-progress/march-edgewonk-journal.png" alt="Edgewonk March Journal" style="max-width:100%;" /></a>
 
 And here is the cumulative data, automatically calculated by Edgewonk:
 
