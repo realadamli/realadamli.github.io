@@ -5,7 +5,8 @@ layout: post
 alt: 'Trade Review (XBTUSD: Short) - POC S/R Retest'
 categories:
 - Trader-Progress
-description: A successful scalp trade after a period of aggressive selling by shorts and successful defense and micro-structure reclaim by longs.
+description: A successful scalp trade after a period of aggressive selling by shorts
+  and successful defense and micro-structure reclaim by longs.
 thumbnail: "/assets/images/trader-progress/050220-XBTUSD.png"
 tags:
 - Trade Review
@@ -31,9 +32,7 @@ The market entry for this type of trade should have been passive, but I instead 
 
 My thesis was correct, and price began to rally up towards the 9150 area (the first TP). Unfortunately, it stalled at a high of 9065, and began to follow the equities dump. But, since I was looking at the fractal, I was actually anticipating a dump, so managed to close at 9030, giving me a very nice 4.6R return.
 
-Here is the link to the Twitter thread with the original post.
-
-https://twitter.com/realadamli/status/1256096317392093184
+[Here is the link to the Twitter thread with the original post.](https://twitter.com/realadamli/status/1256096317392093184) <--- Click me!
 
 **Notes**
 
